@@ -1,4 +1,4 @@
-# 491 Fall Senior Seminar
+# CSC575 : Open Source Software Development
 
 A senior capstone course. Students identify and begin a year-long project with options including honors and independent research projects or participation in a Free and Open Source Software (FOSS) project. Class readings and discussions will focus on social, legal and ethical issues in computing, software engineering topics and contemporary issues in computer science. Written and oral presentation of technical and non-technical content will be required.
 
