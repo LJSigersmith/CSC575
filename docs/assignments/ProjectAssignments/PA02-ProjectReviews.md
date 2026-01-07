@@ -2,11 +2,11 @@
 
 ### Introduction
 
-In the [Project Exploration assignment](ProjectAssignments/PA01-ProjectExplorations.md) you collected basic information about some projects to which you might be interested in contributing. In this assignment you will build on that background by gathering more in depth and detailed information about a few of the projects that you are most interested in. This will include assessing how welcoming a community is to newcomers, how responsive they are to questions, how well documented and organized the project is, and thinking about what you'll need to learn to get started. Collecting this additional information will take some time and effort, but it will be very helpful in making a well informed decision in the next activity, which asks you (and your teammates) to select the project community with which you will work for the remainder of the year.  You should plan to spend approximately 3 hours on each Project Review.
+In the [Project Exploration assignmen(PA01-ProjectExplorations.md) you collected basic information about some projects to which you might be interested in contributing. In this assignment you will build on that background by gathering more in depth and detailed information about a few of the projects that you are most interested in. This will include assessing how welcoming a community is to newcomers, how responsive they are to questions, how well documented and organized the project is, and thinking about what you'll need to learn to get started. Collecting this additional information will take some time and effort, but it will be very helpful in making a well informed decision in the next activity, which asks you (and your teammates) to select the project community with which you will work for the remainder of the year.  You should plan to spend approximately 3 hours on each Project Review.
 
 ### Assignment
 
-Each team must complete an H/FOSS Project Review for 2 H/FOSS projects of interest. Ideally, your project reviews will build upon your project explorations or they could include a newly discovered project. If you elect to review a project that you did not explore, you will need to complete a [Project Exploration](ProjectAssignments/PA01-ProjectExplorations.md) for the new project before completing a Project Review for it.
+Each team must complete an H/FOSS Project Review for 2 H/FOSS projects of interest. Ideally, your project reviews will build upon your project explorations or they could include a newly discovered project. If you elect to review a project that you did not explore, you will need to complete a [Project Exploration](PA01-ProjectExplorations.md) for the new project before completing a Project Review for it.
 
 Before starting your project reviews:
 1. Synchronize the `main` branch of your course repo with the upstream.
@@ -17,7 +17,7 @@ Before starting your project reviews:
 
 Complete your project reviews by:
 1. Select 2 projects to review (per team) that seem most promising to you.
-   - If you select a project that you did not explore in the previous assignment, complete a [Project Exploration](ProjectAssignments/PA01-ProjectExplorations.md) for the project before continuing.
+   - If you select a project that you did not explore in the previous assignment, complete a [Project Exploration](PA01-ProjectExplorations.md) for the project before continuing.
 2. Open the `.md` file in your directory for the Project Exploration that you did for the project that you are now reviewing.
 3. Add the following sections and content to the `.md` file below the Project Exploration:
    ```
