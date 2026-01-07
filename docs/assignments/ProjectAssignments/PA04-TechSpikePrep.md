@@ -1,4 +1,4 @@
-## PA05 - Tech Spike Preparation
+## PA04 - Tech Spike Preparation
 
 ### Introduction
 
@@ -11,8 +11,8 @@ In this assignment the project teams will prepare to complete a tech spike in wh
 #### Getting Started
 
 To get started:
-1. Make a copy of the `TechSpikePreparation.md` file from the `teams` directory into the team's own directory.
-2. Add a bullet to the “Project Documents” section of the team's `README.md` that links to the team’s `TechSpikePreparation.md` file.
+1. Make a copy of the `TechSpikePrep.md` file from the `ProjectAssignments` directory into the team's own directory.
+2. Add a bullet to the “Project Documents” section of the team's `README.md` that links to the team’s `TechSpikePrep.md` file.
 
 #### Gap Analysis
 
@@ -39,9 +39,9 @@ Work as a team, involving every team member in the discussion, to complete a gap
 
 #### Learning Resources
 
-In this part of the activity teams will identify learning resources (readings, videos, tutorials, courses, etc...) that that they will use to begin to fill in the gaps that the team has identified.  While the Gap Analysis was a full team activity, this section should be completed individuals, pairs, or sub-teams based on how the team has delegated responsibilities in the "Our Plan" section above.
+In this part of the activity teams will identify learning resources (readings, videos, tutorials, courses, etc...) that that they will use to begin to fill in the gaps that the team has identified.  While the Gap Analysis was a full team activity, this section should be completed individuals, pairs, or sub-teams based on how the team has delegated responsibilities in the "Our Goals" section above.
 
-1. Add sub-sections to the "Learning Resources" section of the team's `TechSpikePreparation.md` file that align with the gaps in the "Our Plan" section of the "Gap Analysis".
+1. Add sub-sections to the "Learning Resources" section of the team's `TechSpikePrep.md` file that align with the gaps in the "Our Goals" section of the "Gap Analysis".
 2. In the sub-section for each gap, the responsible team members should create an annotated list of resources (with links) that they believe will help them learn what is needed to begin to fill the gap. Some tips for building this list:
    - Search the project's documentation for any resources that they have provided or recommended.
    - Be sure to use the project community here. Search the appropriate communication channel, explain what you are trying to learn and how you think it will help your team engage with the project and ask for suggestions of good resources.
@@ -53,10 +53,10 @@ In this part of the activity teams will identify learning resources (readings, v
 
 #### Planned Spike Artifacts
 
-[PP01 - Tech Spike Presentation](PP01-TechSpikePresentation.md) occurs at the end of the Tech Spike (See the [Course Schedule](../index.md#comp-491-outline)) and requires that each team give a presentation. In this presentation the team will introduce the project on which they are working and demonstrate of some of the things that were built during the Tech Spike.  This section asks that teams identify artifacts that they *may* build during the Tech Spike and demonstrate in their presentation.
+[PP01 - Tech Spike Presentation](PP01-TechSpikePresentation.md) occurs at the end of the Tech Spike (See the Course Schedule) and requires that each team give a presentation. In this presentation the team will introduce the project on which they are working and demonstrate of some of the things that were built during the Tech Spike.  This section asks that teams identify artifacts that they *may* build during the Tech Spike and demonstrate in their presentation.
 
 Consider the learning resources that have been identified:
-1. Add a bullet to the "Planned Spike Artifacts" section of the team's `TechSpikePreparation.md` file for each thing (i.e. artifact) an individual, pair or sub-team *may* build.  
+1. Add a bullet to the "Planned Spike Artifacts" section of the team's `TechSpikePrep.md` file for each thing (i.e. artifact) an individual, pair or sub-team *may* build.  
    - Each artifact might be something that is created by following one of the learning resources (preferable) or something that the individual, pair or sub-team aim to build based on what is learned. The artifacts may be created within the team's project or outside of the team's project as makes sense. Note however, that the artifacts are not intended to be bug fixes or new features, they are intended to be directed at learning rather than contributing at this point.  Note that listing the artifacts does not imply that they will all be built. The plan for which learning resources are used and what artifacts are built can evolve as the spike progresses (e.g. a learning resource turns out to be not as good as initially thought).
 2. For each bullet:
    - Indicate the individual, pair or sub-team that *may* build the artifact.
@@ -65,14 +65,13 @@ Consider the learning resources that have been identified:
 
 ### Completing the Tech Spike 
 
-Once a team has completed the Gap Analysis, identified Learning Resources, and Planned Artifacts, it will use the time until [PP01 - Tech Spike Presentation](PP01-TechSpikePresentation.md) to learn, build artifacts, and prepare the presentation.
+Once a team has completed the Gap Analysis, identified Learning Resources, and Planned Artifacts, it will use the time until [PP01 - Tech Spike Presentation](ProjectPresentations/PP01-TechSpikePresentation.md) to learn, build artifacts, and prepare the presentation.
 
-During this time the team members are expected invest the expected amount of time per week (See [the Syllabus](../syllabus.md)) working on the following tasks:
+During this time the team members are expected invest the expected amount of time per week working on the following tasks:
   - engaging in learning activities (readings, videos, tutorials, courses, etc...) to develop knowledge and skills.
   - using what is being learned to build concrete artifacts that can be demonstrated.
   - participating in team meetings with the instructor on work days.
-  - preparing [PP01 - Tech Spike Presentation](PP01-TechSpikePresentation.md).
-  - completing TEAMMATES feedback sessions that will inform project effectiveness scores.
+  - preparing [PP01 - Tech Spike Presentation](ProjectPresentations/PP01-TechSpikePresentation.md).
 
 ---
 
