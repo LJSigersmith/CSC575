@@ -53,7 +53,7 @@ In this part of the activity teams will identify learning resources (readings, v
 
 #### Planned Spike Artifacts
 
-[PP01 - Tech Spike Presentation](PP01-TechSpikePresentation.md) occurs at the end of the Tech Spike (See the Course Schedule) and requires that each team give a presentation. In this presentation the team will introduce the project on which they are working and demonstrate of some of the things that were built during the Tech Spike.  This section asks that teams identify artifacts that they *may* build during the Tech Spike and demonstrate in their presentation.
+[PP01 - Tech Spike Presentation](ProjectPresentations/PP01-TechSpikePresentation.md) occurs at the end of the Tech Spike (See the Course Schedule) and requires that each team give a presentation. In this presentation the team will introduce the project on which they are working and demonstrate of some of the things that were built during the Tech Spike.  This section asks that teams identify artifacts that they *may* build during the Tech Spike and demonstrate in their presentation.
 
 Consider the learning resources that have been identified:
 1. Add a bullet to the "Planned Spike Artifacts" section of the team's `TechSpikePrep.md` file for each thing (i.e. artifact) an individual, pair or sub-team *may* build.  
