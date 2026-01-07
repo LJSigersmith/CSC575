@@ -1,4 +1,4 @@
-## PP05 - Final Project Presentation
+## PP04 - Final Project Presentation
 
 Each project team will prepare and deliver a final presentation that introduces the project on which they are working, gives a sense of the scope of everything the team has worked on, describes in detail _some_ of the project contributions on which they have been working, and reflects on their process, progress and learning experiences that they have had.
 
@@ -10,7 +10,7 @@ The presentation should strive to tell a cohesive, interesting and engaging stor
 - Introduce the project on which the team is working.
   - The team should ask itself the following questions about the introduction:
     1. Is the introduction is sufficient to give someone who has never heard of the project a clear picture of what the project is, why people care about it, what it does from the user's perspective, and the impact it is having?
-    1. Does the introduction to the project provide sufficient context for the audience to understand the details of the contributions that the team will be presenting (see the third bullet)?
+    2. Does the introduction to the project provide sufficient context for the audience to understand the details of the contributions that the team will be presenting (see the third bullet)?
 - Give a **very brief** overview of everything the team has worked on to provide a sense of the scope of what the team has accomplished.  This could simply be a table showing everything the team has worked on. You do not have to explain what each item is.
   - The team should ask itself the following questions about this content:
     1. Will the audience have a sense of the scope of things that the team has worked on?
@@ -29,12 +29,11 @@ The presentation should strive to tell a cohesive, interesting and engaging stor
 
 The presentation and presenters should aim to meet the following criteria:
 - **Timing:** Meet the target length for the presentation within plus or minus 2 minutes.  The target time for your presentation will be set as follows:
-    - Teams of 2-4 members will have 20 minutes.
-    - Teams of 5-6 members will have 25 minutes.
+    - Teams will have 20 minutes.
     - There will be an additional 5-10 minutes of question and answer time following the presentation.
 - **Balance:** All team members should present for approximately equal amounts of time.
   - Every team member must participate in the presentation of at least one of the team's contributions.
-- **Audience:** Prepare this presentation for an audience of your peers (advanced undergraduate computer science majors). 
+- **Audience:** Prepare this presentation for an audience of your peers (graduate computer science majors). 
   - You may assume that the audience knows a good bit about computer science and free and open source software. However, you should not assume that they know anything about the specific project your team is working on, or the frameworks and languages in which you are working. 
   - When discussing topics that are outside of the audience's assumed knowledge, context and background sufficient for the audience to follow the presentation must be provided.
 - **Presentation Materials:** The presentation materials should:
