@@ -4,7 +4,7 @@ Welcome to CSC575. This site contains the syllabus, assignments, readings, and p
 
 ## Course Materials
 - [Syllabus](Syllabus/)
-- [Readings](../assignments/Readings/)
-- [Project Assignments](../assignments/ProjectAssignments/)
-- [Project Presentations](../assignments/ProjectPresentations/)
+- [Readings](assignments/Readings/)
+- [Project Assignments](assignments/ProjectAssignments/)
+- [Project Presentations](assignments/ProjectPresentations/)
 
