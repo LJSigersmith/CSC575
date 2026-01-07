@@ -1,4 +1,4 @@
-## PA06 - Project Contributions
+## PA05 - Project Contributions
 
 ### Introduction
 
@@ -21,7 +21,7 @@ There are a number of good ways to identify potential contributions and all shou
 - Review the project's contributing documentation and follow any suggestions that are given.
 - Review the project's communication channels for any messages from others who are/were getting started and read the relevant responses.  This can also help to inform you about which project maintainers that are most involved in onboarding new contributors or interacting with student teams. It may be helpful to then search for more messages from those maintainers.
 - Use an appropriate communication channel to introduce your team to the community and ask for guidance.
-  - When reaching out to the community, be sure that you explain that you are a team of senior undergraduate computer science students in a year-long capstone course that focuses on open source contribution. You might mention that the course continues through May and that you will be spending approximately 6-8 hours per week on the project work. Then ask directly for suggestions, tips or pointers to good places to start. 
+  - When reaching out to the community, be sure that you explain that you are a team of graduate computer science students in a course that focuses on open source contribution. You might mention that you will be spending approximately 6-8 hours per week on the project work. Then ask directly for suggestions, tips or pointers to good places to start. 
 - Browse the issue tracker for issues that seem interesting and approachable to your team. If you settle on an issue you intend to work on follow the project's conventions for letting them know.  Some projects will ask you to comment on the issue. Others would like to to create a draft pull request. Others simply prefer that you start working on it and get in touch if you have questions.  In any case, you should feel free to reach out to the community about the issue you are working on if you have any questions about the issue or how to get started on it.
 - If you are having difficulty identifying potential contributions or figuring out how to connect with your project community you should talk with your instructor.
 
@@ -31,14 +31,14 @@ As you identify potential contributions, document them as described in the [Docu
 
 Teams will create a document in the course repository that tracks their active and potential future contributions.
 
-1. Make a copy of the `ProjectContributions.md` file from the `teams` directory in the course repository into the team's own directory.
-2. Add a bullet to the “Project Documents” section of the team's `README.md` that links to the team’s `ProjectContributions.md` file.
-3. Fill in the template in the `ProjectContributions.md` file with information about the potential contributions that you have identified.
+1. Make a copy of the `Contributions.md` file from the `ProjectAssignments` directory in the course repository into the team's own directory.
+2. Add a bullet to the “Project Documents” section of the team's `README.md` that links to the team’s `Contributions.md` file.
+3. Fill in the in the `Contributions.md` file with information about the potential contributions that you have identified.
 4. Create a pull request containing your changes to the upstream course repository.
 
-This document must be created and every team member must be associated with at least one active contribution by the assignment due date.
+This document must be created and every team member must be associated with at least one active contribution at the given time.
 
-This document must continue to be updated and maintained throughout the remainder of the course. Any time there is a significant event (issue, comment, posting, commit, pull request, merge, etc.) the team must update the `ProjectContributions.md` file and create a new PR to the upstream. Activity recorded in this document will be accounted for in your [Project Effectiveness](./PE-ProjectEffectiveness.md) scores.  **Teams should make keeping this document up to date a part of their weekly team meetings.**
+This document must continue to be updated and maintained throughout the remainder of the course. Any time there is a significant event (issue, comment, posting, commit, pull request, merge, etc.) the team must update the `Contributions.md` file and create a new PR to the upstream. Activity recorded in this document will be accounted for in your [Project Effectiveness](./PE-ProjectEffectiveness.md) scores.  **Teams should make keeping this document up to date a part of their weekly team meetings.**
 
 #### Demonstrating the Developer Install
 
@@ -66,7 +66,7 @@ Your recorded demonstration must clearly perform each of the following steps whi
 6. Build and run the program from the feature branch.
 7. Demonstrate the change.
 
-Send your recording in a direct message to the instructor in Teams before the assignment due date.
+Share your recording with the instructor in Teams before the assignment due date.
 
 ---
 
