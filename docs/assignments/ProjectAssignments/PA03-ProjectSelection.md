@@ -1,16 +1,12 @@
-## PA04 - Project Ranking and Selection
+## PA03 - Project Ranking and Selection
 
 ### Introduction
 
-Through the [Project Explorations](PA02-ProjectExplorations.md) and [Project Reviews](PA03-ProjectReviews.md) you have all gained a great deal of familiarity with a wide variety of H/FOSS projects. This assignment asks you to form a project team, make a direct comparison between a number of the projects in which the team is interested, and based on that comparison select the H/FOSS project on which the team will work for the year.
-
-### Team Formation
-
-Your instructor will use the information from the explorations and reviews that have been posted on the Course Repository to identify common areas of interest across the class.  During class time, these areas will be presented and individuals will indicate their interest in working on different projects.  We as a class will then negotiate the exact composition of each project team such that everyone has been placed on a team in which they have some shared interest.  Each team will have between 2 and 5 members and an effort will be made to keep the total number of teams in the class to 5 or less. Keep in mind that during the actual project work, teams may divide into smaller groups (sub-teams of two or three) as appropriate to work on different aspects of the same H/FOSS project.
+Through the [Project Explorations](PA01-ProjectExplorations.md) and [Project Reviews](PA02-ProjectReviews.md) you have all gained a great deal of familiarity with a wide variety of H/FOSS projects. This assignment asks you to make a direct comparison between a number of the projects in which the team is interested, and based on that comparison select the H/FOSS project on which the team will work for the year.
 
 ### Assignment
 
-Once the teams have been formed, each team will complete the Ranking and Selection activities below in order to choose the project on which they will work. There will be one submission for this assignment for each project team. The submission must be completed collaboratively with the involvement of all team members.
+Each team will complete the Ranking and Selection activities below in order to choose the project on which they will work. There will be one submission for this assignment for each project team. The submission must be completed collaboratively with the involvement of all team members.
 
 To complete this assignment:
 
@@ -42,7 +38,7 @@ Based on this discussion decide on at least 3 projects that the team will consid
 
 For each project that the team is considering for selection:
 1. Edit one of the bullets in the "Projects Considered" section of your team's `ProjectSelection.md` file to give information about the project.
-3. Add links to of all of the Project Explorations and Project Reviews that were completed (including those not done by your classmates). You can find these links on the [Project Explorations](https://github.com/Dickinson-COMP-491-492/AY25-26/blob/main/projectExpl.md) and [Project Reviews](https://github.com/Dickinson-COMP-491-492/AY25-26/blob/main/projectRev.md) pages in the Course Repository.
+3. Add links to of all of the Project Explorations and Project Reviews that were completed (including those not done by your classmates).
 
 Note, the team may find that as its discussion progress it makes sense to come back and consider different or additional projects. That is perfectly acceptable, just add them to the list accordingly.
 
@@ -58,7 +54,7 @@ For each project being considered:
 <!--
 ##### User Perspective Spike
 
-The purpose of this spike is to get a feel for what it would be like as a user coming to the product. You will want to find and use the directions that the project provides for new users wanting to install/use the product. This may require you to download and install an executable program, or there may be a live demo available online, or you may have to build the executable program from its source code. If there are multiple ways to install the product as a user, you should choose what seems like the easiest way.
+   The purpose of this spike is to get a feel for what it would be like as a user coming to the product. You will want to find and use the directions that the project provides for new users wanting to install/use the product. This may require you to download and install an executable program, or there may be a live demo available online, or you may have to build the executable program from its source code. If there are multiple ways to install the product as a user, you should choose what seems like the easiest way.
 
 To complete the User Perspective Spike:
 1. Spend a maximum of 1 hour trying to install/use the latest version of the product as a user.  If you are unable to install/use the program within 1 hour stop.
