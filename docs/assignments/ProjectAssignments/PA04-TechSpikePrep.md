@@ -53,7 +53,7 @@ In this part of the activity teams will identify learning resources (readings, v
 
 #### Planned Spike Artifacts
 
-[PP01 - Tech Spike Presentation](assignments/ProjectPresentations/PP01-TechSpikePresentation.md) occurs at the end of the Tech Spike (See the Course Schedule) and requires that each team give a presentation. In this presentation the team will introduce the project on which they are working and demonstrate of some of the things that were built during the Tech Spike.  This section asks that teams identify artifacts that they *may* build during the Tech Spike and demonstrate in their presentation.
+[PP01 - Tech Spike Presentation](../ProjectPresentations/PP01-TechSpikePresentation.md) occurs at the end of the Tech Spike (See the Course Schedule) and requires that each team give a presentation. In this presentation the team will introduce the project on which they are working and demonstrate of some of the things that were built during the Tech Spike.  This section asks that teams identify artifacts that they *may* build during the Tech Spike and demonstrate in their presentation.
 
 Consider the learning resources that have been identified:
 1. Add a bullet to the "Planned Spike Artifacts" section of the team's `TechSpikePrep.md` file for each thing (i.e. artifact) an individual, pair or sub-team *may* build.  
@@ -65,13 +65,13 @@ Consider the learning resources that have been identified:
 
 ### Completing the Tech Spike 
 
-Once a team has completed the Gap Analysis, identified Learning Resources, and Planned Artifacts, it will use the time until [PP01 - Tech Spike Presentation](ProjectPresentations/PP01-TechSpikePresentation.md) to learn, build artifacts, and prepare the presentation.
+Once a team has completed the Gap Analysis, identified Learning Resources, and Planned Artifacts, it will use the time until [PP01 - Tech Spike Presentation](../ProjectPresentations/PP01-TechSpikePresentation.md) to learn, build artifacts, and prepare the presentation.
 
 During this time the team members are expected invest the expected amount of time per week working on the following tasks:
   - engaging in learning activities (readings, videos, tutorials, courses, etc...) to develop knowledge and skills.
   - using what is being learned to build concrete artifacts that can be demonstrated.
   - participating in team meetings with the instructor on work days.
-  - preparing [PP01 - Tech Spike Presentation](ProjectPresentations/PP01-TechSpikePresentation.md).
+  - preparing [PP01 - Tech Spike Presentation](../ProjectPresentations/PP01-TechSpikePresentation.md).
 
 ---
 
