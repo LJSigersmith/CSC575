@@ -6,7 +6,7 @@ In the [Project Exploration assignment](PA01-ProjectExplorations.md) you collect
 
 ### Assignment
 
-Each team must complete an H/FOSS Project Review for 2 H/FOSS projects of interest. Ideally, your project reviews will build upon your project explorations or they could include a newly discovered project. If you elect to review a project that you did not explore, you will need to complete a [Project Exploration](PA01-ProjectExplorations.md) for the new project before completing a Project Review for it.
+Each teammate must complete an H/FOSS Project Review for 2 H/FOSS projects of interest. Ideally, your project reviews will build upon your project explorations or they could include a newly discovered project. If you elect to review a project that you did not explore, you will need to complete a [Project Exploration](PA01-ProjectExplorations.md) for the new project before completing a Project Review for it.
 
 Before starting your project reviews:
 1. Synchronize the `main` branch of your course repo with the upstream.
@@ -16,7 +16,7 @@ Before starting your project reviews:
 #### Project Reviews
 
 Complete your project reviews by:
-1. Select 2 projects to review (per team) that seem most promising to you.
+1. Select 2 projects to review (per teammate) that seem most promising to you.
    - If you select a project that you did not explore in the previous assignment, complete a [Project Exploration](PA01-ProjectExplorations.md) for the project before continuing.
 2. Open the `.md` file in your directory for the Project Exploration that you did for the project that you are now reviewing.
 3. Add the following sections and content to the `.md` file below the Project Exploration:
