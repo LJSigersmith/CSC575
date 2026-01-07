@@ -7,3 +7,13 @@ You will also learn the basics of version control, understand how open source pr
 For some readings, you will present your findings to the class (1.A.1, 1.A.2). Other readings will include hands-on activities (1.B.1 - 1.B.3) to help you apply what you learn.
 
 You will work in teams for these assignments. For the reflection, each team member must submit its own understanding, and all team members are expected to understand the material.
+
+## Introductory Readings & Presentations
+- [1.A.1](1.A.1.md)
+- [1.A.2](1.A.2.md)
+- [1.A.3](1.A.3.md)
+
+## Hands-On Activities
+- [1.B.1](1.B.1.md)
+- [1.B.2](1.B.2.md)
+- [1.B.3](1.B.3.md)
