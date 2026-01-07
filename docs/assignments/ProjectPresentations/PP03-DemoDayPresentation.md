@@ -5,8 +5,7 @@ This semester your teams have been working on contributions to your chosen proje
 ### Assignment
 
 1. As a team, identify contributions that the team has worked on and that have had enough work done on them to make an interesting demonstration.
-2. Determine who will be demonstrating which contributions. Ideally demonstrations will occur in pairs, exceptions for individuals or trios may be granted by the instructor.
-   - Note: This assignment is about presentation not technical accomplishments, so it is not required that the demonstration in which you participate be of work that you have done personally. You may partner with another member of your team.
+2. Determine who will be demonstrating which contributions. 
 3. Prepare and deliver a demonstration of a contribution that includes the [Content](#content), and meets the [Requirements](#requirements) and [Criteria](#criteria) as described below.
 
 #### Content
