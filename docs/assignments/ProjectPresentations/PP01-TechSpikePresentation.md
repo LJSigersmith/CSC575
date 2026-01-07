@@ -33,7 +33,7 @@ The presentation should aim to meet the following criteria:
     - For example: A team of 4 may need two demonstrations, so the target time for their presentation would be 8 + 6*2 or 20 minutes.
     - There will be an additional 5-10 minutes of question and answer time following the presentation.
 - **Balance:** All team members should present for approximately equal amounts of time.
-- **Audience:** Prepare this presentation for an audience of your peers (advanced undergraduate computer science majors). 
+- **Audience:** Prepare this presentation for an audience of your peers (graduate computer science majors). 
   - You may assume that the audience knows a good bit about computer science and free and open source software. However, you should not assume that they know anything about the specific project your team is working on or the technologies you have learned about in this activity. 
   - When discussing topics that are outside of the audience's assumed knowledge, context and background sufficient for the audience to follow the presentation must be provided.
 - **Presentation Materials:** The presentation materials should:
@@ -49,7 +49,7 @@ The presentation should aim to meet the following criteria:
   - Demonstrate understanding of technical details from the tech spike and the ability to explain these details to the audience.
   - Convince the audience that substantial effort has been invested in the project, equivalent to the expected time investment per week.
 
-The [PP01 Tech Spike Presentation Feedback Sheet](./materials/PP01-criteria-sheet.docx) will be used for evaluation and grading of the presentation.  Each team member will be evaluated on each of the criteria.
+Each team will be evaluated by the other teams.
 
 ### Acknowledgements
 
