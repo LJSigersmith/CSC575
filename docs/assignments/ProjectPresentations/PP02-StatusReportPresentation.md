@@ -26,12 +26,11 @@ The presentation should strive to tell a cohesive, interesting and engaging stor
 
 The presentation and presenters should aim to meet the following criteria:
 - **Timing:** Meet the target length for the presentation within plus or minus 2 minutes.  The target time for your presentation will be set as follows:
-    - Teams of 2-4 members will have 20 minutes.
-    - Teams of 5-6 members will have 25 minutes.
+    - Teams will have 20 minutes.
     - There will be an additional 5-10 minutes of question and answer time following the presentation.
 - **Balance:** All team members should present for approximately equal amounts of time.
   - Every team member must participate in the presentation of at least one of the team's contributions.
-- **Audience:** Prepare this presentation for an audience of your peers (advanced undergraduate computer science majors). 
+- **Audience:** Prepare this presentation for an audience of your peers (graduate computer science majors). 
   - You may assume that the audience knows a good bit about computer science and free and open source software. However, you should not assume that they know anything about the specific project your team is working on, or the frameworks and languages in which you are working. 
   - When discussing topics that are outside of the audience's assumed knowledge, context and background sufficient for the audience to follow the presentation must be provided.
 - **Presentation Materials:** The presentation materials should:
