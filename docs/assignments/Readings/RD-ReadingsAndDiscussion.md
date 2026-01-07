@@ -9,11 +9,11 @@ For some readings, you will present your findings to the class (1.A.1, 1.A.2). O
 You will work in teams for these assignments. For the reflection, each team member must submit its own understanding, and all team members are expected to understand the material.
 
 ## Introductory Readings & Presentations
-- [1.A.1](1.A.1.doc)
-- [1.A.2](1.A.2.doc)
-- [1.A.3](1.A.3.doc)
+- [1.A.1 Introduction to FOSS – R1](1.A.1%20Introduction%20to%20FOSS%20-%20R1.docx)
+- [1.A.2 FOSS in Courses – R2](1.A.2%20FOSS%20In%20Courses%20-%20R2.docx)
+- [1.A.3 Intro to Copyright and Licensing – R3](1.A.3%20Intro%20to%20Copyright%20and%20Licensing%20-%20R3.docx)
 
 ## Hands-On Activities
-- [1.B.1](1.B.1.doc)
-- [1.B.2](1.B.2.doc)
-- [1.B.3](1.B.3.doc)
+- [1.B.1 Intro to FOSS Anatomy – R4](1.B.1%20Intro%20to%20FOSS%20Anatomy%20-%20R4.docx)
+- [1.B.2 Tour of Educational HFOSS Projects – R5](1.B.2%20Tour%20of%20Educational%20HFOSS%20Projects%20-%20R5.docx)
+- [1.B.3 Introduction to GitKit – R6](1.B.3%20Introduction%20to%20GitKit%20-%20R6.docx)
