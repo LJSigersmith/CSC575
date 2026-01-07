@@ -38,7 +38,7 @@ Teams will create a document in the course repository that tracks their active a
 
 This document must be created and every team member must be associated with at least one active contribution at the given time.
 
-This document must continue to be updated and maintained throughout the remainder of the course. Any time there is a significant event (issue, comment, posting, commit, pull request, merge, etc.) the team must update the `Contributions.md` file and create a new PR to the upstream. Activity recorded in this document will be accounted for in your [Project Effectiveness](./PE-ProjectEffectiveness.md) scores.  **Teams should make keeping this document up to date a part of their weekly team meetings.**
+This document must continue to be updated and maintained throughout the remainder of the course. Any time there is a significant event (issue, comment, posting, commit, pull request, merge, etc.) the team must update the `Contributions.md` file and create a new PR to the upstream. Activity recorded in this document will be accounted for in your [Project Effectiveness](PE-ProjectEffectiveness.md) scores.  **Teams should make keeping this document up to date a part of their weekly team meetings.**
 
 #### Demonstrating the Developer Install
 
