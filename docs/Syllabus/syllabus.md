@@ -154,10 +154,10 @@ Students will complete a semester-long open-source project in **teams of two**.
 
 | Presentation | Weight | Link |
 |-------------|--------|------|
-| PP-01 | 5% | [PP-01](ProjectPresentations/PP01-TechSpikePresentation.md) |
-| PP-02 | 5% | [PP-02](ProjectPresentations/PP02-StatusReportPresentation.md) |
-| PP-03 | 5% | [PP-03](ProjectPresentations/PP03-DemoDayPresentation.md) |
-| PP-04 | 15% | [PP-04](ProjectPresentations/PP04-FinalPresentation.md) |
+| PP-01 | 5% | [PP-01][GitHub (.md)](PP01-TechSpikePresentation.md) | [Website](PP01-TechSpikePresentation) |
+| PP-02 | 5% | [PP-02][GitHub (.md)](PP02-StatusReportPresentation.md) | [Website](PP02-StatusReportPresentation) |
+| PP-03 | 5% | [PP-03][GitHub (.md)](PP03-DemoDayPresentation.md) | [Website](PP03-DemoDayPresentation) |
+| PP-04 | 15% | [PP-04][GitHub (.md)](PP04-FinalPresentation.md) | [Website](PP04-FinalPresentation) |
 
 ---
 
