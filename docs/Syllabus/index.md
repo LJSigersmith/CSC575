@@ -231,11 +231,11 @@ The instructor reserves the right to modify this syllabus. Any changes will be a
 
 ## Semester Schedule – CSC575: Open Source Software Development
 
-> **Note:** This schedule is subject to change. Any updates will be announced in class and reflected on the course website.
+**Note:** This schedule is subject to change. Any updates will be announced in class and reflected on the course website.
 
 | Date | Topic / In-Class Activity | Assignment Due |
 |------|---------------------------|----------------|
-| **1/21** | Course Introduction | — |
+| **1/21** | Course Introduction | - |
 | **1/26** | In-class: Reading 1.A.1 | 1.A.2, 1.A.3 |
 | **1/28** | Presentations: 1.A.1 | — |
 | **2/2** | Presentations: 1.A.2 | 1.B.1 |
@@ -248,8 +248,8 @@ The instructor reserves the right to modify this syllabus. Any changes will be a
 | **2/25** | In-class: PA-02 | PA-03 |
 | **3/2** | In-class: PA-03 | — |
 | **3/4** | In-class: PA-03 | PA-04 |
-| **3/9** | 🎉 Spring Break | — |
-| **3/11** | 🎉 Spring Break | — |
+| **3/9** | 🎉 *Spring Break* | — |
+| **3/11** | 🎉 *Spring Break* | — |
 | **3/16** | In-class: PA-04 | — |
 | **3/18** | In-class: PA-04 | — |
 | **3/23** | **PP-01: Tech Spike Presentation** | PA-05 |
