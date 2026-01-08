@@ -127,12 +127,12 @@ You may complete readings and discussions with your team; however, **each studen
 
 | Activity | Weight | Link |
 |--------|--------|------|
-| 1.A.1 | 5% | [1.A.1](Readings/1.A.1/) |
-| 1.A.2 | 5% | [1.A.2](Readings/1.A.2/) |
-| 1.A.3 | 1% | [1.A.3](Readings/1.A.3/) |
-| 1.B.1 | 3% | [1.B.1](HandsOn/1.B.1/) |
-| 1.B.2 | 3% | [1.B.2](HandsOn/1.B.2/) |
-| 1.B.3 | 3% | [1.B.3](HandsOn/1.B.3/) |
+| 1.A.1 | 5% | [1.A.1](1.A.1%20Introduction%20to%20FOSS%20-%20R1.docx) |
+| 1.A.2 | 5% | [1.A.2](1.A.2%20FOSS%20In%20Courses%20-%20R2.docx) |
+| 1.A.3 | 1% | [1.A.3](1.A.3%20Intro%20to%20Copyright%20and%20Licensing%20-%20R3.docx) |
+| 1.B.1 | 3% | [1.B.1](1.B.1%20Intro%20to%20FOSS%20Anatomy%20-%20R4.docx) |
+| 1.B.2 | 3% | [1.B.2](1.B.2%20Tour%20of%20Educational%20HFOSS%20Projects%20-%20R5.docx) |
+| 1.B.3 | 3% | [1.B.3](1.B.3%20Introduction%20to%20GitKit%20-%20R6.docx) |
 
 ---
 
