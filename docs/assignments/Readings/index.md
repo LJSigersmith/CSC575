@@ -7,7 +7,7 @@ This section includes assigned readings and activities that introduce Free and O
 ## Introductory Readings & Discussions
 
 - 1.A.1 – Introduction to FOSS  
-  - [GitHub (.md)](1.A.1IntroductiontoFOSS.md) | [Website](1.A.1-Introduction-to-FOSS)
+  - [GitHub (.md)](1.A.1IntroductiontoFOSS-R1.md) | [Website](1.A.1-Introduction-to-FOSS)
 
 - 1.A.2 – FOSS in Courses  
   - [GitHub (.md)](1.A.2-FOSS-In-Courses.md) | [Website](1.A.2-FOSS-In-Courses)
