@@ -29,9 +29,7 @@ If these times do not work, please email me and we will find a mutually convenie
 
 ## Who Is Your Professor?
 
-Hi everyone! I’m Dr. Kruti Shah. I began my academic journey with a Bachelor of Engineering in Computer Science in India, followed by a Master’s degree from California State University, Los Angeles, and a Ph.D. in Computer Science from the University of North Dakota. My research focuses on software engineering and artificial intelligence, particularly on building reliable, secure, and impactful software systems.
-
-This is my second year at Quinnipiac University. I also serve as the faculty advisor for the Quinnipiac Computing Club (QCC). My goal for this course is not just to cover technical content, but to create a welcoming environment where you feel comfortable asking questions, exploring ideas, and connecting course concepts to real-world software, research, and career paths.
+Hi everyone! I'm Dr. Kruti Shah. I started my journey with a Bachelor of Engineering in Computer Science in India, went on to earn a master’s at California State University, Los Angeles, and later completed my Ph.D. in Computer Science at the University of North Dakota. My research focuses on software engineering and artificial intelligence especially on how we can use technology to build reliable and impactful systems. This is my second year at Quinnipiac University. This past summer I worked with a group of both undergraduate and graduate students on an exciting research project: designing an AI-powered system to help visually impaired individuals navigate more independently. I’m also serving as the advisor for the Quinnipiac Computing Club (QCC). My goal for this course is not just to cover material, but to create a space where you feel comfortable asking questions, exploring new ideas, and even connecting what we do here with larger research or career goals. I look forward to learning and growing together with you this semester!
 
 ---
 
@@ -39,7 +37,7 @@ This is my second year at Quinnipiac University. I also serve as the faculty adv
 
 Email is the best way to reach me.
 
-- I aim to respond within **24 hours on weekdays** and **48 hours on weekends**.
+- I try to respond within **24 hours on weekdays** and **48 hours on weekends**.
 - Emails sent after **9:00 PM** may not be seen until the next morning.
 - If you haven’t received a response within 24 hours, please send a follow-up email.
 
@@ -83,15 +81,15 @@ By the end of this course, students will be able to:
 ## ABET Student Outcomes Addressed
 
 ### ABET CAC Outcomes
-- **C1:** Analyze complex computing problems (CLO 1–6)
-- **C2:** Design and evaluate computing-based solutions (CLO 1, 5, 6)
-- **C5:** Function effectively as a member or leader of a team (CLO 5, 6)
-- **C6:** Apply computer science theory and software development fundamentals (CLO 1–6)
+- **C1:** Analyze a complex computing problem and to apply principles of computing and other relevant disciplines to identify solutions. (CLO 1-6)
+- **C2:** Design, implement, and evaluate a computing-based solution to meet a given set of computing requirements in the context of the program’s discipline. (CLO 1, 5, 6)
+- **C5:** Function effectively as a member or leader of a team engaged in activities appropriate to the program’s discipline. (CLO 5, 6)
+- **C6:** Apply computer science theory and software development fundamentals to produce computing-based solutions. (CLO 1-6)
 
 ### ABET EAC Outcomes
-- **E1:** Identify and solve complex engineering problems (CLO 1–6)
-- **E2:** Apply engineering design with societal considerations (CLO 1, 6)
-- **E6:** Conduct experimentation and interpret results (CLO 1–6)
+- **E1:** An ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics. (CLO 1-6)
+- **E2:** An ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors. (CLO 1, 6)
+- **E6:** An ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions. (CLO 1-6)
 
 ---
 
