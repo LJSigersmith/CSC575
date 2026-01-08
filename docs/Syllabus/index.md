@@ -229,6 +229,44 @@ The instructor reserves the right to modify this syllabus. Any changes will be a
 
 ---
 
+## Semester Schedule – CSC575: Open Source Software Development
+
+> **Note:** This schedule is subject to change. Any updates will be announced in class and reflected on the course website.
+
+| Date | Topic / In-Class Activity | Assignment Due |
+|------|---------------------------|----------------|
+| **1/21** | Course Introduction | — |
+| **1/26** | In-class: Reading 1.A.1 | 1.A.2, 1.A.3 |
+| **1/28** | Presentations: 1.A.1 | — |
+| **2/2** | Presentations: 1.A.2 | 1.B.1 |
+| **2/4** | In-class: 1.B.1 | 1.B.2 |
+| **2/9** | In-class: 1.B.2 | 1.B.3 |
+| **2/11** | In-class: 1.B.3 | PA-01 |
+| **2/16** | In-class: PA-01 | — |
+| **2/18** | In-class: PA-01 | PA-02 |
+| **2/23** | In-class: PA-02 | — |
+| **2/25** | In-class: PA-02 | PA-03 |
+| **3/2** | In-class: PA-03 | — |
+| **3/4** | In-class: PA-03 | PA-04 |
+| **3/9** | 🎉 Spring Break | — |
+| **3/11** | 🎉 Spring Break | — |
+| **3/16** | In-class: PA-04 | — |
+| **3/18** | In-class: PA-04 | — |
+| **3/23** | **PP-01: Tech Spike Presentation** | PA-05 |
+| **3/25** | In-class: PA-05 | — |
+| **3/30** | In-class: PA-05 | — |
+| **4/1** | **PP-02: Status Report Presentation** | — |
+| **4/6** | In-class: PA-05 | — |
+| **4/8** | In-class: PA-05 | — |
+| **4/13** | In-class: PA-05 | — |
+| **4/15** | **PP-03: Demo Day Presentation** | — |
+| **4/20** | In-class: PA-05 | — |
+| **4/22** | In-class: PA-05 | — |
+| **4/27** | In-class: PA-05 | — |
+| **4/29** | **PP-04: Final Project Presentation** | — |
+
+---
+
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") All textual materials used in this course are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ![GPL V3 or Later](https://www.gnu.org/graphics/gplv3-or-later-sm.png "GPL V3 or later") All executable code used in this course is licensed under the [GNU General Public License Version 3 or later](https://www.gnu.org/licenses/gpl.txt)
