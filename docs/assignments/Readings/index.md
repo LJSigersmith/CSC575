@@ -34,10 +34,6 @@ You will work in teams for these assignments. For the reflection, each team memb
 
 ---
 
-## Additional Materials
-- [Readings and Discussion Overview](RD-ReadingsAndDiscussion.md)
-- [Reading Notes](Reading-Notes.md)
-
 ⬅️ [Back to Assignments](../)
 
 
