@@ -1,5 +1,5 @@
 # CSC575: Open Source Software Development  
-**Quinnipiac University**
+## **Quinnipiac University**
 
 ---
 
