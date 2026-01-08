@@ -233,3 +233,5 @@ The instructor reserves the right to modify this syllabus. Any changes will be a
 
 ![GPL V3 or Later](https://www.gnu.org/graphics/gplv3-or-later-sm.png "GPL V3 or later") All executable code used in this course is licensed under the [GNU General Public License Version 3 or later](https://www.gnu.org/licenses/gpl.txt)
 
+
+
