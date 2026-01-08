@@ -142,12 +142,11 @@ Students will complete a semester-long open-source project in **teams of two**.
 
 | Assignment | Weight | Link |
 |-----------|--------|------|
-| PA-01 | 5% | [PA-01 – Course Tools](ProjectAssignments/PA01-CourseTools.md) |
-| PA-01 (Exploration) | — | [PA-01 – Project Exploration](ProjectAssignments/PA01-ProjectExplorations.md) |
-| PA-02 | 5% | [PA-02 – Project Reviews](ProjectAssignments/PA02-ProjectReviews.md) |
-| PA-03 | 5% | [PA-03 – Project Selection](ProjectAssignments/PA03-ProjectSelection.md) |
-| PA-04 | 5% | [PA-04 – Tech Spike Prep](ProjectAssignments/PA04-TechSpikePrep.md) |
-| PA-05 | 20% | [PA-05 – Contributions](ProjectAssignments/PA05-Contributions.md) |
+| PA-01 (Exploration) | 5% | [PA-01 – Project Exploration][GitHub (.md)](PA01-ProjectExplorations.md) | [Website](PA01-ProjectExplorations) |
+| PA-02 | 5% | [PA-02 – Project Reviews][GitHub (.md)](PA02-ProjectReviews.md) | [Website](PA02-ProjectReviews) |
+| PA-03 | 5% | [PA-03 – Project Selection][GitHub (.md)](PA03-ProjectSelection.md) | [Website](PA03-ProjectSelection) |
+| PA-04 | 5% | [PA-04 – Tech Spike Prep][GitHub (.md)](PA04-TechSpikePrep.md) | [Website](PA04-TechSpikePrep) |
+| PA-05 | 20% | [PA-05 – Contributions][GitHub (.md)](PA05-Contributions.md) | [Website](PA05-Contributions) |
 
 ---
 
