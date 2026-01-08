@@ -4,7 +4,7 @@ This folder contains all project-related assignments for the course. These assig
 
 # Assignments
 
-- PA01 – Course Tools: [PA-01 – Project Exploration](../assignments/ProjectAssignments/PA01-ProjectExplorations.md/) | [Website](PA01-CourseTools)
+- PA01 – Course Tools: [PA-01 – Project Exploration](../assignments/ProjectAssignments/PA01-ProjectExplorations.md) | [Website](PA01-CourseTools)
 - PA01 – Project Explorations: [GitHub (.md)](PA01-ProjectExplorations.md) | [Website](PA01-ProjectExplorations)
 - PA02 – Project Reviews: [GitHub (.md)](PA02-ProjectReviews.md) | [Website](PA02-ProjectReviews)
 - PA03 – Project Selection: [GitHub (.md)](PA03-ProjectSelection.md) | [Website](PA03-ProjectSelection)
