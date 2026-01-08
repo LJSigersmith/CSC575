@@ -11,7 +11,7 @@ This folder contains all project-related assignments for the course. These assig
 - PA05 – Contributions: [PA05](PA05-Contributions.md) |
 - PE – Project Effectiveness: [PE](PE-ProjectEffectiveness.md) |
 
-⬅️ [Back](../index.md)
+⬅️ [Back to Assignments](../index.md)
 
 
 
