@@ -5,9 +5,9 @@
 
 ## Course Information
 
-**Course:** CSC575 – Open Source Software Development  
+**Course:** CSC575 - Open Source Software Development  
 **Section:** 01  
-**Meeting Time:** Monday / Wednesday, 2:00 PM – 3:15 PM  
+**Meeting Time:** Monday / Wednesday, 2:00 PM - 3:15 PM  
 **Location:** TH130  
 
 ---
@@ -20,8 +20,8 @@
 **Office Location:** CCE 238  
 
 ### Office Hours
-- **Mondays:** 11:00 AM – 12:15 PM (In-person, CCE 238)  
-- **Wednesdays:** 11:00 AM – 12:15 PM (Zoom)
+- **Mondays:** 11:00 AM - 12:15 PM (In-person, CCE 238)  
+- **Wednesdays:** 11:00 AM - 12:15 PM (Zoom)
 
 If these times do not work, please email me and we will find a mutually convenient time.
 
