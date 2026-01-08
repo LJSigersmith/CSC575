@@ -10,4 +10,3 @@ This folder contains all presentation deliverables related to the course project
 - PP04 – Final Presentation: [PP04](PP04-FinalPresentation.md) |
 
 ⬅️ [Back to Assignments](../index.md)
-
