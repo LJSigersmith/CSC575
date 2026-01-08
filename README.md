@@ -1,24 +1,16 @@
 # CSC575 : Open Source Software Development
 
-A senior capstone course. Students identify and begin a year-long project with options including honors and independent research projects or participation in a Free and Open Source Software (FOSS) project. Class readings and discussions will focus on social, legal and ethical issues in computing, software engineering topics and contemporary issues in computer science. Written and oral presentation of technical and non-technical content will be required.
+Welcome to **CSC575: Open Source Software Development**. This course introduces students to the principles, practices, and culture of Free and Open Source Software (FOSS). Through readings, discussions, and hands-on project work, students will learn how open source communities collaborate, build software, and sustain projects over time.
 
-Prerequisite: 290 and Senior standing. Offered every fall.
+Students will explore the history and philosophy of FOSS, including licensing and copyright considerations, version control, and common workflows used in open source projects. The course also emphasizes **Humanitarian Free and Open Source Software (HFOSS)**, helping students understand how open source can be used to address real-world and social-impact challenges.
 
-# 492 Spring Senior Seminar
+A major component of the course is a **team-based open source project**. Students will evaluate existing open source projects, select a project that aligns with their interests and skills, and contribute through activities such as documentation, testing, design, or code contributions. Along the way, students will present their progress and reflect on their learning.
 
-A continuation of the senior capstone course. Students continue the year-long project begun in 491. Class readings and discussions will focus on additional social, legal and ethical issues in computing, software engineering topics and contemporary issues in computer science. Written and oral presentation of technical and non-technical content and a final public presentation of the completed project will be required.
-
-Prerequisite: 491. Offered every spring.
+This GitHub repository serves as the **central hub for course materials**, including the syllabus, assignments, project deliverables, and readings. Students will use GitHub throughout the semester to access materials and submit their work, gaining practical experience with tools commonly used in open source development.
 
 # Website
 
-The course web page can be found at: https://dickinson-comp-491-492.github.io/website/
-
-## Updates/Editing
-
-Content for the web page is in the docs folder.
-
-Commits to the files in docs will automatically run jekyll and regenerate the site with the updated content.
+The course web page can be found at: https://krutishah45.github.io/CSC575/
 
 ---
 
