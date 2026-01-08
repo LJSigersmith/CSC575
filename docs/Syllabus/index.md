@@ -223,12 +223,6 @@ Lectures may only be recorded with an approved accommodation. Any instructor-ini
 
 ---
 
-## Changes to This Syllabus
-
-The instructor reserves the right to modify this syllabus. Any changes will be announced in class and posted on Blackboard.
-
----
-
 ## Semester Schedule – CSC575: Open Source Software Development
 
 **Note:** This schedule is subject to change. Any updates will be announced in class and reflected on the course website.
