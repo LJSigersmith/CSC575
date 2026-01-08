@@ -142,11 +142,12 @@ Students will complete a semester-long open-source project in **teams of two**.
 
 | Assignment | Weight | Link |
 |-----------|--------|------|
-| PA-01 | 5% | [PA-01](ProjectAssignments/PA-01/) |
-| PA-02 | 5% | [PA-02](ProjectAssignments/PA-02/) |
-| PA-03 | 5% | [PA-03](ProjectAssignments/PA-03/) |
-| PA-04 | 5% | [PA-04](ProjectAssignments/PA-04/) |
-| PA-05 (Final Project) | 20% | [PA-05](ProjectAssignments/PA-05/) |
+| PA-01 | 5% | [PA-01 – Course Tools](ProjectAssignments/PA01-CourseTools.md) |
+| PA-01 (Exploration) | — | [PA-01 – Project Exploration](ProjectAssignments/PA01-ProjectExplorations.md) |
+| PA-02 | 5% | [PA-02 – Project Reviews](ProjectAssignments/PA02-ProjectReviews.md) |
+| PA-03 | 5% | [PA-03 – Project Selection](ProjectAssignments/PA03-ProjectSelection.md) |
+| PA-04 | 5% | [PA-04 – Tech Spike Prep](ProjectAssignments/PA04-TechSpikePrep.md) |
+| PA-05 | 20% | [PA-05 – Contributions](ProjectAssignments/PA05-Contributions.md) |
 
 ---
 
@@ -154,10 +155,10 @@ Students will complete a semester-long open-source project in **teams of two**.
 
 | Presentation | Weight | Link |
 |-------------|--------|------|
-| PP-01 | 5% | [PP-01](ProjectPresentations/PP-01/) |
-| PP-02 | 5% | [PP-02](ProjectPresentations/PP-02/) |
-| PP-03 | 5% | [PP-03](ProjectPresentations/PP-03/) |
-| PP-04 (Final) | 15% | [PP-04](ProjectPresentations/PP-04/) |
+| PP-01 | 5% | [PP-01](ProjectPresentations/PP01-TechSpikePresentation.md) |
+| PP-02 | 5% | [PP-02](ProjectPresentations/PP02-StatusReportPresentation.md) |
+| PP-03 | 5% | [PP-03](ProjectPresentations/PP03-DemoDayPresentation.md) |
+| PP-04 | 15% | [PP-04](ProjectPresentations/PP04-FinalPresentation.md) |
 
 ---
 
