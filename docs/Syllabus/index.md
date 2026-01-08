@@ -142,7 +142,7 @@ Students will complete a semester-long open-source project in **teams of two**.
 
 | Assignment | Weight | Link |
 |-----------|--------|------|
-| PA-01 (Exploration) | 5% | [PA-01 – Project Exploration][GitHub (.md)](../ProjectAssignments/PA01-ProjectExplorations.md) | [Website](PA01-ProjectExplorations) |
+| PA-01 (Exploration) | 5% | [PA-01 – Project Exploration][GitHub (.md)](assignments/ProjectAssignments/PA01-ProjectExplorations.md) | [Website](PA01-ProjectExplorations) |
 | PA-02 | 5% | [PA-02 – Project Reviews][GitHub (.md)](PA02-ProjectReviews.md) | [Website](PA02-ProjectReviews) |
 | PA-03 | 5% | [PA-03 – Project Selection][GitHub (.md)](PA03-ProjectSelection.md) | [Website](PA03-ProjectSelection) |
 | PA-04 | 5% | [PA-04 – Tech Spike Prep][GitHub (.md)](PA04-TechSpikePrep.md) | [Website](PA04-TechSpikePrep) |
