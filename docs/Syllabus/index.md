@@ -227,7 +227,7 @@ Lectures may only be recorded with an approved accommodation. Any instructor-ini
 
 **Note:** This schedule is subject to change. Any updates will be announced in class and reflected on the course website.
 
-| Date | Topic / In-Class Activity | Assignment Due |
+| Date | Topic / In-Class Activity | Assign |
 |------|---------------------------|----------------|
 | **1/21** | Course Introduction | - |
 | **1/26** | In-class: Reading 1.A.1 | 1.A.2, 1.A.3 |
