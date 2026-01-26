@@ -268,6 +268,3 @@ Lectures may only be recorded with an approved accommodation. Any instructor-ini
 
 
 ![GPL V3 or Later](https://www.gnu.org/graphics/gplv3-or-later-sm.png "GPL V3 or later") All executable code used in this course is licensed under the [GNU General Public License Version 3 or later](https://www.gnu.org/licenses/gpl.txt)
-
-
-
