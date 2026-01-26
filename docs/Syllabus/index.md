@@ -232,7 +232,7 @@ Lectures may only be recorded with an approved accommodation. Any instructor-ini
 | Date | Topic / In-Class Activity | Assign |
 |------|---------------------------|--------|
 | **1/21** | Course Introduction | — |
-| **1/26** | **Campus Closure – Bad Weather (No Class)** | — |
+| **1/26** | **Campus Closure - Bad Weather (No Class)** | — |
 | **1/28** | In-class: Reading 1.A.1 | 1.A.2, 1.A.3 |
 | **2/2** | Presentations: 1.A.1 | — |
 | **2/4** | Presentations: 1.A.2 | 1.B.1 |
