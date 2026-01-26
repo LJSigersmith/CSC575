@@ -227,30 +227,32 @@ Lectures may only be recorded with an approved accommodation. Any instructor-ini
 
 **Note:** This schedule is subject to change. Any updates will be announced in class and reflected on the course website.
 
+# Course Schedule (Updated for 1/26 Campus Closure)
+
 | Date | Topic / In-Class Activity | Assign |
-|------|---------------------------|----------------|
-| **1/21** | Course Introduction | - |
-| **1/26** | In-class: Reading 1.A.1 | 1.A.2, 1.A.3 |
-| **1/28** | Presentations: 1.A.1 | — |
-| **2/2** | Presentations: 1.A.2 | 1.B.1 |
-| **2/4** | In-class: 1.B.1 | 1.B.2 |
-| **2/9** | In-class: 1.B.2 | 1.B.3 |
-| **2/11** | In-class: 1.B.3 | PA-01 |
-| **2/16** | In-class: PA-01 | — |
-| **2/18** | In-class: PA-01 | PA-02 |
-| **2/23** | In-class: PA-02 | — |
-| **2/25** | In-class: PA-02 | PA-03 |
-| **3/2** | In-class: PA-03 | — |
-| **3/4** | In-class: PA-03 | PA-04 |
+|------|---------------------------|--------|
+| **1/21** | Course Introduction | — |
+| **1/26** | **Campus Closure – Bad Weather (No Class)** | — |
+| **1/28** | In-class: Reading 1.A.1 | 1.A.2, 1.A.3 |
+| **2/2** | Presentations: 1.A.1 | — |
+| **2/4** | Presentations: 1.A.2 | 1.B.1 |
+| **2/9** | In-class: 1.B.1 | 1.B.2 |
+| **2/11** | In-class: 1.B.2 | 1.B.3 |
+| **2/16** | In-class: 1.B.3 | PA-01 |
+| **2/18** | In-class: PA-01 | — |
+| **2/23** | In-class: PA-01 | PA-02 |
+| **2/25** | In-class: PA-02 | — |
+| **3/2** | In-class: PA-02 | PA-03 |
+| **3/4** | In-class: PA-03 | — |
 | **3/9** | 🎉 *Spring Break* | — |
 | **3/11** | 🎉 *Spring Break* | — |
-| **3/16** | In-class: PA-04 | — |
+| **3/16** | In-class: PA-03 | PA-04 |
 | **3/18** | In-class: PA-04 | — |
-| **3/23** | **PP-01: Tech Spike Presentation** | PA-05 |
-| **3/25** | In-class: PA-05 | — |
+| **3/23** | In-class: PA-04 | — |
+| **3/25** | **PP-01: Tech Spike Presentation** | PA-05 |
 | **3/30** | In-class: PA-05 | — |
-| **4/1** | **PP-02: Status Report Presentation** | — |
-| **4/6** | In-class: PA-05 | — |
+| **4/1** | In-class: PA-05 | — |
+| **4/6** | **PP-02: Status Report Presentation** | — |
 | **4/8** | In-class: PA-05 | — |
 | **4/13** | In-class: PA-05 | — |
 | **4/15** | **PP-03: Demo Day Presentation** | — |
