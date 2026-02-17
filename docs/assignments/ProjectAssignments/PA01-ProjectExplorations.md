@@ -34,7 +34,7 @@ In this part of the assignment you will build a preliminary list of *candidate p
 
 In this part of the assignment you will perform more detailed Project Explorations on a subset of the candidate projects that you have identified.
 
-1. Select 4 or 5 candidate projects (per team) that seem promising to you.
+1. Select 10-12 candidate projects (per team) that seem promising to you.
 2. For each candidate project that you selected you should spend approximately 1 hour exploring it and documenting what you find as follows:
    1. Create a new `.md` file for the project exploration in your directory in the CSC575 course repository.
    2. Using the `README.md` file in your directory:
