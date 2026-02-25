@@ -34,15 +34,15 @@ The course web page can be found at: https://krutishah45.github.io/CSC575/
 
 # Project Explorations
 
-- [Glucosio Exploration](PROJ1.md)
-- [Internet Archive Exploration](PROJ2.md)
-- [Wagtail Exploration](PROJ3.md)
-- [The Odin Project Exploration](PROJ4.md)
-- [TEAMMATES Exploration](PROJ5.md)
-- [Zulip Exploration](PROJ6.md)
-- [wger Exploration](PROJ7.md)
-- [Open Library Exploration](PROJ8.md)
-- [CourtListener Exploration](PROJ9.md)
-- [Uwazi Exploration](PROJ10.md)
-- [Signal Exploration](PROJ11.md)
+- [Glucosio Exploration](ProjectExplorations/Glucosio.md)
+- [Internet Archive Exploration](ProjectExplorations/InternetArchive.md)
+- [Wagtail Exploration](ProjectExplorations/Wagtail.md)
+- [The Odin Project Exploration](ProjectExplorations/TheOdinProject.md)
+- [TEAMMATES Exploration](ProjectExplorations/Teammates.md)
+- [Zulip Exploration](ProjectExplorations/Zulip.md)
+- [wger Exploration](ProjectExplorations/wger.md)
+- [Open Library Exploration](ProjectExplorations/OpenLibrary.md)
+- [CourtListener Exploration](ProjectExplorations/CourtListener.md)
+- [Uwazi Exploration](ProjectExplorations/Uwazi.md)
+- [Signal Exploration](ProjectExplorations/Signal.md)
 
