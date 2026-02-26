@@ -1,4 +1,4 @@
-```markdown
+
 
 ## 6. Zulip
 
@@ -25,4 +25,6 @@
 
 ### Skills Match
 > Python, c, JavaScript
-```
+
+### Insights (Lance)
+This project seems like it aligns well with my skill set. I like the project itself too, and the mobile app development is a skill set match and an interest as well.

@@ -1,4 +1,4 @@
-```markdown
+
 ## 3. Wagtail
 
 ### Repository
@@ -24,4 +24,6 @@
 
 ### Skills Match
 > Python
-```
+
+### Insights (Lance)
+I agree with Blessings that I would like to learn Django, so in that respect I'm interested in this project. It seems pretty active too.

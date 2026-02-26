@@ -1,4 +1,4 @@
-```markdown
+
 
 ## 10. Uwazi
 
@@ -28,4 +28,3 @@
 
 ### Skills Match
 > 67.4% TypeScript, 30.2% JavaScript. I am familiar with both of these.
-```

@@ -1,4 +1,4 @@
-```markdown
+
 
 ## 4. The Odin Project
 
@@ -25,4 +25,6 @@
 
 ### Skills Match
 > JavaScript, CSS
-```
+
+### Insights (Lance)
+This project also seems really interesting, though very web development centered, so maybe not a great match for me.

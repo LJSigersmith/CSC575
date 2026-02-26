@@ -25,3 +25,5 @@
 ### Skills Match
 > C Programing Language
 
+### Insights (Lance)
+I like this project as a candidate because it lines up with my interest in Android app development, includes C which I like working in, and the focus of the project itself.

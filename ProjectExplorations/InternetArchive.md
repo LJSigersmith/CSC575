@@ -25,3 +25,5 @@
 ### Skills Match
 > Python, HTML, JavaScript
 
+### Insights (Lance)
+I had also selected an Internet Archive project, so I like the idea of this one as well. The project seems active and I am familiar with the skillset, so it could be a good match.

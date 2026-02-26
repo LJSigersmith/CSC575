@@ -1,4 +1,4 @@
-```markdown
+
 
 ## 5. Teammates
 
@@ -26,4 +26,5 @@
 ### Skills Match
 > Java, HTML, JavaScript
 
-```
+### Insights (Lance)
+This project seems pretty interesting, and I do have some experience with Java but some of the other projects seem a better match.
