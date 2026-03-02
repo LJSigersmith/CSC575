@@ -27,3 +27,6 @@
 
 ### Skills Match
 > Kotlin 63%, Java 36.7%. I am familiar with both languages.
+
+### Insights (Blessings)
+> I like this project, seems like the community is still active with a lot of open issues to choose from. 

@@ -28,3 +28,6 @@
 
 ### Skills Match
 > Python 89.9%, HTML 8.6%. I am familiar with both of these languages. I'd have to learn a little about Docker, I haven't used it extensively.
+
+### Insights (Blessings)
+> I like this project because of how vast it is, it focuses on full stack development and android development. Im not too familiar with Docker though , which is something new i might have to learn.

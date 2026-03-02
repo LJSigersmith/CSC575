@@ -20,7 +20,7 @@
 > https://docs.wagtail.org/en/stable/getting_started/index.html
 
 ### Personal Interest
-> Interest in learning Django
+> Interest in learning Django, and the community seems like its still active.
 
 ### Skills Match
 > Python

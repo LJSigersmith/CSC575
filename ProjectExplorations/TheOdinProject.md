@@ -21,7 +21,7 @@
 > https://github.com/TheOdinProject/theodinproject/blob/main/CONTRIBUTING.md
 
 ### Personal Interest
-> Frontend Development
+> Frontend Development. This project caught my eye because it provides a path to being a full stack developer which is an area of interest for me and would want to contribute torwads developping more full stack developers.
 
 ### Skills Match
 > JavaScript, CSS

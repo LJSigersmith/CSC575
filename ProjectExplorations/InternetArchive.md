@@ -20,10 +20,10 @@
 > https://github.com/internetarchive/bookreader/blob/f910ef7e6f1400d522987a910b5ed66d3bf6be94/CONTRIBUTING.md
 
 ### Personal Interest
-> Community is still active and contributing to the project with 270 repositories to choose from.
+> Community is still active and contributing to the project with 270 repositories to choose from. 
 
 ### Skills Match
 > Python, HTML, JavaScript
 
 ### Insights (Lance)
-I had also selected an Internet Archive project, so I like the idea of this one as well. The project seems active and I am familiar with the skillset, so it could be a good match.
+> I had also selected an Internet Archive project, so I like the idea of this one as well. The project seems active and I am familiar with the skillset, so it could be a good match.

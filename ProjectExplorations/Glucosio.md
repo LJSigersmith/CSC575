@@ -20,10 +20,10 @@
 > https://gitlab.com/glucosio/glucosio-android/-/wikis/home
 
 ### Personal Interest
-> Android App Development
+> Android App Development and the focus on helping patient
 
 ### Skills Match
 > C Programing Language
 
 ### Insights (Lance)
-I like this project as a candidate because it lines up with my interest in Android app development, includes C which I like working in, and the focus of the project itself.
+> I like this project as a candidate because it lines up with my interest in Android app development, includes C which I like working in, and the focus of the project itself. 

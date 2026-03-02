@@ -26,3 +26,6 @@
 
 ### Skills Match
 > 62% Python, 16% HTML, 13.4% JavaScript, 6.7% PostgreSQL, 0.8% CSS, 0.2% TypeScript; which are all languages I'm familiar with.
+
+### Insights (Blessings) 
+> This looks like an interesting project to take on, especially with the number of open issues provides a wide range of self application. The only challenge I anticipate is of my lack of knowledge of American Law which bring a limitation to the open issues that are maybe research based, but it will provide a learning opportunity.

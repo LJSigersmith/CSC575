@@ -28,3 +28,6 @@
 
 ### Skills Match
 > 67.4% TypeScript, 30.2% JavaScript. I am familiar with both of these.
+
+### Insights (Blessings)
+> It would be interesting working on this project, though I have no experience with typescript, but im willing to dive in head first and figure it out. Clear first time issues for a first time contributor. Its seems like an interesting site to work on even browsing through their website.
