@@ -81,7 +81,7 @@ Once the team has completed the Install Spikes, it will create rankings for the 
 
 To complete the Project Ranking:
 
-1. Replace P1, P2, P3 in the "Project Name" column in the table in the "Project Rankings" section with the names of the projects your team is considering. Add additional rows to the table as necessary.
+1. Add P1, P2, P3 in the "Project Name" column in the table in the "Project Rankings" section with the names of the projects your team is considering. Add additional rows to the table as necessary.
 2. Engage in a full team discussion of the Project Explorations, Project Reviews, Install Spikes and any other information you find useful to come to a consensus ranking for the projects along each of the dimensions described below. Each project should get a ranking  for each dimension (1, 2, 3, ... with 1 being the best). Ties are allowed.
    - **Community**: *How would it be to work within this project's community?* Consider issues including the size and diversity of the user and developer communities, the availability and variety of communication channels, the quality and tone of communications, and how the community treats and on-boards newcomers.
    - **Complexity**: *How technically hard is it going to be to work on this project?* Consider issues including your ability to grasp the overall purpose and organization of the project, size of the code base, the number of different tools/languages/technologies/frameworks used, the quality of documentation, and the modularity of the project (i.e. will you be able to isolate what you have to know?).
