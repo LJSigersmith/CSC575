@@ -34,7 +34,7 @@ To complete this assignment:
 
 Have a discussion within the team about all of the projects that the team members have reviewed. This discussion should last no more than 1 hour, but must ensure that every team member has an equal opportunity to discuss the projects in which they are interested.
 
-Based on this discussion decide on at least 3 projects that the team will consider for selection as their project for the year. It is highly recommended that every projects being considered has been reviewed by at least one of the team's members.
+Based on this discussion decide on at least 3 projects that the team will consider for selection as their project for the semester. It is highly recommended that every projects being considered has been reviewed by at least one of the team's members.
 
 For each project that the team is considering for selection:
 1. Edit one of the bullets in the "Projects Considered" section of your team's `ProjectSelection.md` file to give information about the project.
