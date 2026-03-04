@@ -6,7 +6,7 @@
 
 - **[Getting Started Developing CourtListener (Wiki)](https://github.com/freelawproject/courtlistener/wiki/Getting-Started-Developing-CourtListener)** — The primary developer onboarding document. Covers architecture, Docker-based dev environment setup, AWS resource access, CI/CD pipeline overview, PR guidelines, and production monitoring. Recently updated (Feb 24, 2026). Assessment: **Very clear** — well-structured and comprehensive for a newcomer developer.
 
-- **[README.md](https://github.com/freelawproject/courtlistener)** — The repository root README gives a high-level project overview, describes the folder structure (cl/, `docker/`, `scripts/`), links to the volunteer page, and points to the developer wiki. Assessment: **Clear** — good entry point to orient yourself.
+- **[README.md](https://github.com/freelawproject/courtlistener)** — The repository root README gives a high-level project overview, describes the folder structure, links to the volunteer page, and points to the developer wiki. Assessment: **Clear** — good entry point to orient yourself.
 
 - **[Volunteer/Contribute Page](https://free.law/volunteer)** — Describes multiple ways to contribute (code, research, legal, advocacy). Links to a project board for volunteer developers. Assessment: **Clear** — welcoming and practically useful.
 
@@ -16,7 +16,7 @@
 
 ### Code of Conduct
 
-The CourtListener repository does not appear to publish a standalone `CODE_OF_CONDUCT.md` in the repository itself. The GitHub organization page does not prominently feature one either. The repository links to [GitHub's community guidelines](https://github.com/freelawproject/courtlistener/discussions) as part of its Discussions forum. This is a noticeable gap compared to many open source projects. Without a formal code of conduct, it's harder to know exactly what standards of behavior are expected, though the tone in existing issues and communications appears professional and collegial.
+The CourtListener repository does not appear to publish a standalone `CODE_OF_CONDUCT.md` in the repository itself. The GitHub organization page does not prominently feature one either. The repository links to [GitHub's community guidelines](https://github.com/freelawproject/courtlistener/discussions) as part of its Discussions forum. Without a formal code of conduct, it's harder to know exactly what standards of behavior are expected, though the tone in existing issues and communications appears professional.
 
 ### User Installation
 
@@ -30,7 +30,7 @@ Assessment: **Trivial** — There is nothing to install. The product is fully ac
 
 The developer setup relies on Docker and Docker Compose to spin up all required services (PostgreSQL, Redis, Celery, Elasticsearch, Django, etc.). The wiki walks through cloning the repo, running `docker compose up`, and explains the project's architecture components. A contributor license agreement (CLA) is required for first-time contributors (handled automatically by a bot on your first PR).
 
-Assessment: **Reasonable** — Docker simplifies setup considerably, but the stack is non-trivial: PostgreSQL, Redis, Celery, Elasticsearch, and Django must all come up correctly together. Some AWS resource access is also needed for certain features. A developer comfortable with Docker should be able to get up and running within a few hours, but troubleshooting could be time-consuming.
+Assessment: **Reasonable** — Docker simplifies setup considerably, but the stack is non-trivial: PostgreSQL, Redis, Celery, Elasticsearch, and Django must all come up correctly together. Some AWS resource access is also needed for certain features. As I'm not familiar with Docker, I'm sure that will take some time to figure out and set up.
 
 ### Organization
 
@@ -50,7 +50,7 @@ Getting started with CourtListener is reasonably well-supported. The developer w
   - **Activity:** Not publicly visible without an invitation. Based on project documentation references, it appears active (multiple channels, ongoing discussions referenced in issues).
   - **Responsiveness:** **Probably** — Maintainers and regular contributors appear to be on Slack regularly, based on how frequently it's referenced. Response times for direct questions are likely fast during business hours.
   - **Response Time:** Likely within hours for technical questions, based on the community's apparent activity level.
-  - **Content:** Tone appears informal and collegial based on Slack conversation excerpts referenced in GitHub issues (e.g., the F.Cas. discussion in issue #689 cites a Slack conversation). Technical but approachable.
+  - **Content:** Tone appears informal based on Slack conversation excerpts referenced in GitHub issues (e.g., the F.Cas. discussion in issue #689 cites a Slack conversation). Technical but approachable.
 
 - **[GitHub Discussions](https://github.com/freelawproject/courtlistener/discussions)**
   - **Purpose:** Intended as the persistent, searchable Q&A and discussion forum for developers and users. The developer wiki explicitly encourages using this over Slack so answers can be found later.
@@ -127,14 +127,14 @@ The community has two distinct tiers: Slack (active, real-time, but closed/invis
       - Last Week: ~0–1
       - Last Month: ~1–3
       - Last 6 Months: ~5–10
-    - **Approachability:** The `easy pickins` label (seen on issues like #273, #848) tends to mark tasks that are well-scoped Python or Django tasks, often with clear descriptions of what needs to change and why. Issue #848 (SSL verification in PACER scrapers), for example, has a detailed write-up of the problem and multiple possible solutions discussed in comments — the kind of issue a developer could dig into with a few hours of orientation. Comments are constructive and technical. One note: some `help wanted` issues are very old (2014–2017) and may no longer be relevant, so filtering by creation date is important. Newer ones tend to involve data quality or Django feature work.
-    - **Summary:** There are a modest number of beginner-friendly issues, and they're generally well-written with enough context to get started. The `easy pickins` label is the most directly newcomer-targeted. The community is responsive on active issues, and maintainers are helpful when contributors show initiative. The biggest caution is that some labeled issues are years old and may be stale — always check recency.
+    - **Approachability:** The `easy pickins` label (seen on issues like #273, #848) tends to mark tasks that are well-scoped Python or Django tasks, often with clear descriptions of what needs to change and why. Issue #848 (SSL verification in PACER scrapers), for example, has a detailed write-up of the problem and multiple possible solutions discussed in comments — the kind of issue a developer could dig into with a few hours of orientation. Comments are constructive and technical. Some `help wanted` issues are very old (2014–2017) and may no longer be relevant, so filtering by creation date is important. Newer ones tend to involve data quality or Django feature work.
+    - **Summary:** There are a modest number of beginner-friendly issues, and they're generally well-written with enough context to get started. The `easy pickins` label is the most directly newcomer-targeted. The community is responsive on active issues, and maintainers are helpful when contributors show initiative. The biggest caution is that some labeled issues are years old and may be stale.
 
 ---
 
 ## Pull/Merge Requests
 
-- **Volume:** ~101 open PRs (as of early March 2026, per observed data showing 84–101 across recent snapshots)
+- **Volume:** ~101 open PRs
 - **Currency:**
   - Last Week: ~3–5
   - Last Month: ~15–20
@@ -160,49 +160,49 @@ The community has two distinct tiers: Slack (active, real-time, but closed/invis
 ## Tools/Languages/Libraries/Frameworks
 
 - **Tools:**
-  - Docker & Docker Compose — local dev environment orchestration — *used it*
+  - Docker & Docker Compose — local dev environment orchestration — *heard of it*
   - GitHub Actions — CI/CD pipelines (lint, test, CodeQL, Semgrep, deploy) — *used it*
   - Sentry — production error monitoring — *heard of it*
   - AWS (S3, Lambda, CloudFormation) — hosting, storage, serverless functions — *used it*
-  - Poetry — Python dependency management — *used it*
-  - Semgrep — static analysis / security scanning — *heard of it*
-  - Tesseract — OCR engine (via Doctor microservice) — *heard of it*
+  - Poetry — Python dependency management — *heard of it*
+  - Semgrep — static analysis / security scanning — *unfamiliar*
+  - Tesseract — OCR engine (via Doctor microservice) — *unfamiliar*
 
 - **Languages:**
   - Python (~62%) — *used it*
-  - HTML (~16%) — *expert*
+  - HTML (~16%) — *used it*
   - JavaScript (~13%) — *used it*
   - PostgreSQL/SQL (~7%) — *used it*
   - CSS (~1%) — *used it*
   - TypeScript (~0.2%) — *used it*
 
 - **Application Libraries/Frameworks:**
-  - Django — primary web framework — *used it*
-  - Django REST Framework — API layer — *used it*
+  - Django — primary web framework — *heard of it*
+  - Django REST Framework — API layer — *heard of it*
   - Celery — async task queue — *heard of it*
-  - Redis — caching, task brokering — *used it*
-  - Elasticsearch — full-text search and alerts — *heard of it*
-  - HTMX — lightweight server-driven frontend interactions — *heard of it*
+  - Redis — caching, task brokering — *heard of it*
+  - Elasticsearch — full-text search and alerts — *unfamiliar*
+  - HTMX — lightweight server-driven frontend interactions — *ufamiliar*
   - React — used in select frontend components — *used it*
-  - TailwindCSS — utility-first CSS (in adoption) — *used it*
+  - TailwindCSS — utility-first CSS — *used it*
 
 - **Testing Libraries/Frameworks:**
-  - Django's built-in test framework (unittest-based) — *used it*
+  - Django's built-in test framework (unittest-based) — *heard of it*
   - pytest (likely, given Python stack) — *used it*
-  - Selenium / geckodriver (used in Juriscraper for browser-based scrapers) — *heard of it*
+  - Selenium / geckodriver (used in Juriscraper for browser-based scrapers) — *unfamilair*
 
-- **Summary:** The technology stack is a very good match for my current skills. Python and Django are the backbone, and I have solid experience with both. PostgreSQL, Redis, Docker, and GitHub Actions are all tools I've worked with before. The newer additions — Celery, Elasticsearch, and HTMX — are things I've heard of but haven't worked with extensively, which makes them exciting learning opportunities rather than intimidating unknowns. The React usage is limited, so not knowing it deeply isn't a barrier. Overall, I'd estimate I'm familiar with ~75% of the stack already and would need to learn the remaining ~25% (primarily Celery, Elasticsearch, and deeper AWS infrastructure), which is achievable.
+- **Summary:** The technology stack is a very good match for my current skills. Python and Django are the backbone, and I have solid experience with Python. PostgreSQL and GitHub Actions are both things I've worked with before. The newer additions — Celery, Elasticsearch, HTMX, etc — are things I haven't worked with but would present a learning opportunity. The React usage is limited, so not knowing it deeply isn't a barrier. Overall, I'd estimate I'm familiar with most of the stack already.
 
 ---
 
 ## Assessment
 
-CourtListener is an exceptionally well-aligned project for me as a contributor. The mission — making the legal system more transparent and equitable — directly connects to my interest in government transparency and public policy. The technology stack is a strong match: it's primarily Python/Django, and I'm comfortable with most of the tooling.
+CourtListener is an exceptionally well-aligned project for me as a contributor. The mission — making the legal system more transparent and equitable — directly connects to my interest in government transparency and public policy. The technology stack is a strong match: it's primarily Python, and I'm comfortable with most of the tooling.
 
 **What makes this project approachable:**
-The developer wiki is genuinely useful, well-maintained (updated Feb 2026), and covers everything from architecture to CI/CD. The README and volunteer page make it clear how to get started. The maintainers are active, and the `easy pickins` and `help wanted` labels provide concrete entry points. The project's culture, while small, appears professional and collaborative. The Docker-based dev setup means I don't have to fight a complicated local environment.
+The developer wiki is genuinely useful, well-maintained (updated Feb 2026), and covers everything from architecture to CI/CD. The README and volunteer page make it clear how to get started. The maintainers are active, and the `easy pickins` and `help wanted` labels provide concrete entry points. The project's culture, while small, appears professional and collaborative.
 
 **What might make contributions harder:**
-The Slack workspace is the real hub of communication, and it's not publicly accessible — a newcomer has to get an invitation. GitHub Discussions, the public alternative, is lightly used and often goes unanswered. The stack also involves some components I'm less familiar with (Elasticsearch, Celery, AWS at scale), and the codebase is large and mature, so there's a meaningful ramp-up period before I'd feel productive. The lack of a formal code of conduct is a minor concern, though the community tone appears fine in practice.
+The Slack workspace is the real hub of communication, and it's not publicly accessible — a newcomer has to get an invitation. GitHub Discussions, the public alternative, is lightly used and often goes unanswered. The stack also involves some components I'm less familiar with (Elasticsearch, Celery), and the codebase is large and mature, so there's a meaningful ramp-up period before I'd feel productive. The lack of a formal code of conduct is a minor concern, though the community tone appears fine in practice.
 
 **Overall:** I'm genuinely interested in this project. The combination of meaningful mission, familiar tech stack, active maintainers, and clear newcomer pathways makes it one of the stronger candidates I've reviewed. My main concern is the relatively small contributor base — it means the project is healthy and manageable, but it also means there are fewer people to answer questions or review PRs quickly. Still, the maintainers appear attentive, and contributions seem to receive real engagement.
