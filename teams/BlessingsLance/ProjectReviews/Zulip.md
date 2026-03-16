@@ -140,3 +140,13 @@ Well structured documentation which makes it easy to understand the project and 
 The Slack workspace is the real hub of communication, and it's not publicly accessible — a newcomer has to get an invitation. Im not too farmiliar with Tornado and Django, though im willing to learn. Im curious as to my reception from the community as I am not too familiar with some of these technologies and will be heavily reliant on the community for assistance.
 
 **Overall:** I'm genuinely interested in this project. The combination of meaningful mission, familiar technologies, active maintainers, and clear newcomer pathways makes it the most interesting project i have reviewed. My biggest worry is the is learning these technologies in time for me to actively contribute torwads the project.
+
+### Install Spike
+> **Blessings** Will be responsible for the Install spike for **zulip**
+
+**Getting Started**
+
+> The guide to getting started: **https://zulip.readthedocs.io/en/latest/development/overview.html#requirements** 
+> Setting up the Development ENV: **https://zulip.readthedocs.io/en/latest/development/setup-recommended.html**
+
+add links installation 
