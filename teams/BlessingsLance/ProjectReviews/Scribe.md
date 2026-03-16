@@ -214,10 +214,14 @@ Scribe-Android is the strongest candidate for a first open source contribution a
 
 ## Install Spike
 
-### Developer Install Spike
+[Developer Install Spike](teams/BlessingsLance/ProjectSelections/Scribe.md)
 
 - **Installation Documents**
+- [CONTRIBUTING.md](https://github.com/scribe-org/Scribe-Android/blob/main/CONTRIBUTING.md)
+- [Android Studio download](https://developer.android.com/studio)
 
 - **Repository Links**
+- [Scribe-Android upstream repo](https://github.com/scribe-org/Scribe-Android)
+- [Scribe community (Matrix)](https://matrix.to/#/#scribe_community:matrix.org)
 
 - **Summary**
