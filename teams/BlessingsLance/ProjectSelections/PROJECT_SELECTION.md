@@ -16,7 +16,7 @@
 |---|---|---|---|---|---|
 | Scribe | | | | | |
 | Zulip | | | | | |
-| CourtListener | | | | | |
+| CourtListener |3 | 3| 3| 3| 3|
 
 ## Rationale
 
@@ -32,11 +32,11 @@
 
 # Project Selection
 
-**Project:** <!-- Name of the selected project -->
+**Project:** Scribe
 
-**Rationale:** <!-- A paragraph explaining the team's reasoning. Describe how the rankings were considered, which dimensions were weighted most heavily and why. -->
+**Rationale:** Our team selected Scribe as our open source project primarily because of its Android development focus, which aligns well with our interests and growth goals. The community surrounding Scribe is welcoming and easily accessible, making it a strong fit for contributors looking to engage meaningfully without a steep onboarding curve. The issues available in the repository are clearly defined and straightforward, allowing us to contribute effectively within a realistic timeframe. Additionally, Scribe presents an exciting opportunity to work with Kotlin, a language we're eager to gain hands-on experience with, while also leveraging our existing familiarity with Python where applicable. The combination of a supportive community, well-scoped tasks, and the chance to expand our technical skill set made Scribe a clear choice for our team.
 
-**Install Estimate:** <!-- Rough estimate of how many hours it will take all team members to get the development environment up and running. -->
+**Install Estimate:** 30 - 40 mins
 
 **Knowledge Gaps:**
 - <!-- Tool/language/framework that needs to be learned, and brief explanation -->
