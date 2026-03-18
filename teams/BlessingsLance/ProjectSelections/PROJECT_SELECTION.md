@@ -14,10 +14,9 @@
 
 | Project Name | Community | Complexity | Activity | Approachability | Appeal |
 |---|---|---|---|---|---|
-| Scribe | | | | | |
-| Zulip | | | | | |
-| CourtListener |3 | 3| 3| 3| 3|
-
+| Scribe | 1 | 1 | 3 | 1 | 1 |
+| Zulip | 2 | 3 | 1 | 3 | 2 |
+| CourtListener | 3 | 2 | 2 | 2 | 3 |
 ## Rationale
 
 **Community:** Scribe has the strongest community for newcomers despite being the smallest. Its Matrix chat is public and requires no invite, maintainer `andrewtavis` responds within hours and is explicitly encouraging, there is a published Code of Conduct (the only project of the three with one), and bi-weekly developer syncs give contributors direct face time with the core team. Zulip has a large and active community but requires creating an account to view the main chat, making it harder to evaluate before committing. CourtListener ranks lowest here: its main communication hub is an invite-only Slack workspace, GitHub Discussions are often unanswered (some questions from late 2025 received no response), and there is no published Code of Conduct.
