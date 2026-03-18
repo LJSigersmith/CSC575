@@ -148,5 +148,8 @@ The Slack workspace is the real hub of communication, and it's not publicly acce
 
 > The guide to getting started: **https://zulip.readthedocs.io/en/latest/development/overview.html#requirements** 
 > Setting up the Development ENV: **https://zulip.readthedocs.io/en/latest/development/setup-recommended.html**
-
-add links installation 
+> Installing and setting up Windosw Subsystem for Linux (WSL) **https://learn.microsoft.com/en-us/windows/wsl/**
+> Installing Vagrant: **https://developer.hashicorp.com/vagrant/install**
+> Downloading Docker for Desktop: **https://www.docker.com/products/docker-desktop**
+> Download Terminal Window from Microsft Store.
+> 
