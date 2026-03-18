@@ -11,7 +11,6 @@
 - **Git** — With submodule support
 
 ---
-
 ## 1. Install Prerequisites
 
 >  There is a step by step guide on how to install Git, setup a GitHub account and create a SSH key to access your codeon GitHub efficiently.
@@ -43,6 +42,7 @@ NODE_PORT=5672
 ```
 > Download Docker for Desktop at: https://www.docker.com/
 
+---
 ## 2. Get Zulip Code
 
 > In your browser, visit https://github.com/zulip/zulip and click the Fork button. You will need to be logged in to GitHub to do this.
@@ -84,7 +84,7 @@ source .venv/bin/activate
 
 If you are facing problems or you see error messages after running **./tools/run-dev**, you can try running **./tools/provision** again.
 
-
+---
 ## 4. Developing
 
 > You’ll work by editing files on your host machine, in the directory where you cloned Zulip. Use your favorite editor (Sublime, Atom, Vim, Emacs, Notepad++, etc.).
@@ -126,6 +126,7 @@ wsl --unregister <Distribution Name>
 ```bash
 ./tools/rebuild-dev-database
 ```
+---
 ## 5. Shutting down the development environment for use later
 
 > On Windows with WSL 2, you do not need to shut down the environment. Simply close your terminal window(s).
@@ -141,4 +142,15 @@ wsl --terminate <environment_name>
 ```bash
 source .venv/bin/activate
 ```
+
+---
+## 6. Quick Links
+
+> The guide to getting started: **https://zulip.readthedocs.io/en/latest/development/overview.html#requirements** 
+> Setting up the Development ENV: **https://zulip.readthedocs.io/en/latest/development/setup-recommended.html**
+> Installing WSL: **https://learn.microsoft.com/en-us/windows/wsl/install**
+> Installing Vagrant: **https://developer.hashicorp.com/vagrant/install**
+> Installing Docker: **https://www.docker.com/products/docker-desktop**
+> Zulip Repo: **https://github.com/zulip/zulip.git**
+> VSCode guide: **https://code.visualstudio.com/docs/remote/wsl-tutorial**
 ---
