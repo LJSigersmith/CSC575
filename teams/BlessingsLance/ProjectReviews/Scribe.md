@@ -211,3 +211,17 @@ Scribe-Android is the strongest candidate for a first open source contribution a
 **Concerns:** None that are disqualifying. The single-maintainer concentration is the primary structural risk, but it is mitigated by Wikimedia backing and GSoC mentorship history. The early-stage MVP nature of the Android app is actually an advantage for a contributor who wants to build something visible and real.
 
 **Bottom line:** A well-scoped `good first issue` PR is achievable within a semester. The community is structured to support exactly this kind of contribution. The product — a privacy-respecting, Wikidata-powered keyboard for language learners — is something worth contributing to.
+
+## Install Spike
+
+[Developer Install Spike](teams/BlessingsLance/ProjectSelections/Scribe.md)
+
+- **Installation Documents**
+- [CONTRIBUTING.md](https://github.com/scribe-org/Scribe-Android/blob/main/CONTRIBUTING.md)
+- [Android Studio download](https://developer.android.com/studio)
+
+- **Repository Links**
+- [Scribe-Android upstream repo](https://github.com/scribe-org/Scribe-Android)
+- [Scribe community (Matrix)](https://matrix.to/#/#scribe_community:matrix.org)
+
+- **Summary**

@@ -2,8 +2,8 @@
 
 ## Team Members
 
-- [Blessings]()
-- [Lance]()
+- Blessings
+- Lance
 
 ## Meeting Times
 - TBD
