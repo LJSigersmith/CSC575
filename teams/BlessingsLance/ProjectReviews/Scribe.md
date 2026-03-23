@@ -10,7 +10,7 @@
 
 - **[ARCHITECTURE.md](https://github.com/scribe-org/Organization/blob/main/ARCHITECTURE.md)** — Organization-level document with Mermaid diagrams showing how all Scribe sub-projects (Android, iOS, Desktop, Data, Server, i18n) relate to each other and external systems (Wikidata, Wikipedia, Hugging Face, Unicode). Assessment: **Clear** — uniquely useful for understanding the data pipeline; helpful before touching any language data feature.
 
-- **[Wikidata and Scribe Guide](https://github.com/scribe-org/Organization/blob/main/WIKIDATA_AND_SCRIBE_GUIDE.md)** — Explains what Wikidata is, how Scribe queries it via SPARQL, and why grammar data must be edited on Wikidata rather than directly in the repo. Assessment: **Clear** — important context for data-facing work; not required for pure Android UI contributions.
+- **[Wikidata and Scribe Guide](https://github.com/scribe-org/Organization/blob/main/WIKIDATAGUIDE.md)** — Explains what Wikidata is, how Scribe queries it via SPARQL, and why grammar data must be edited on Wikidata rather than directly in the repo. Assessment: **Clear** — important context for data-facing work; not required for pure Android UI contributions.
 
 - **[Scribe Organization Projects Board](https://github.com/orgs/scribe-org/projects/1)** — Cross-repo roadmap tracking issues across all sub-projects by priority, status, and release milestone. Assessment: **Clear** — excellent overview of active and upcoming work.
 
@@ -20,7 +20,7 @@ Scribe-Android publishes a `CODE_OF_CONDUCT.md` at [`.github/CODE_OF_CONDUCT.md`
 
 ### User Installation
 
-- **[Google Play Store](https://play.google.com/store/apps/details?id=be.scri.nde)** and **[F-Droid](https://f-droid.org/en/packages/be.scri.nde/)** — Scribe-Android is available through both major Android distribution channels. F-Droid availability signals the project's commitment to open-source values.
+- **[Google Play Store](https://play.google.com/store/apps/details?id=be.scri.nde)** — Scribe-Android is available on the Google Play Store. *(Note: F-Droid listing previously referenced appears to have been removed.)*
 
 Assessment: **Trivial** — Standard app store install with no account, no setup, and no configuration required.
 
@@ -214,7 +214,7 @@ Scribe-Android is the strongest candidate for a first open source contribution a
 
 ## Install Spike
 
-[Developer Install Spike](teams/BlessingsLance/ProjectSelections/Scribe.md)
+[Developer Install Spike](../ProjectSelections/Scribe.md)
 
 - **Installation Documents**
 - [CONTRIBUTING.md](https://github.com/scribe-org/Scribe-Android/blob/main/CONTRIBUTING.md)

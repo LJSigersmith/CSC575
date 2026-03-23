@@ -1,13 +1,13 @@
 # Projects Considered
-- [CourtListener](teams/BlessingsLance/ProjectReviews/CourtListener.md)
-- [Scribe](teams/BlessingsLance/ProjectReviews/Scribe.md)
-- [Zulip](teams/BlessingsLance/ProjectReviews/Zulip.md)
-- ~~[Signal](teams/BlessingsLance/ProjectReviews/Signal.md)~~
-- ~~[The Odin Project](teams/BlessingsLance/ProjectReviews/TheOdinProject.md)~~
+- [CourtListener](../ProjectReviews/CourtListener.md)
+- [Scribe](../ProjectReviews/Scribe.md)
+- [Zulip](../ProjectReviews/Zulip.md)
+- ~~[Signal](../ProjectReviews/Signal.md)~~
+- ~~[The Odin Project](../ProjectReviews/TheOdinProject.md)~~
 
 # Project Install Spikes
-- [Scribe](teams/BlessingsLance/ProjectSelections/Scribe.md)
-- [Zulip](teams/BlessingsLance/ProjectSelections/Zulip.md)
+- [Scribe](Scribe.md)
+- [Zulip](Zulip.md)
 - CourtListener (deployed website, no installation)
 
 # Project Ranking

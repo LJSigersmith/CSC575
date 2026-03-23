@@ -71,7 +71,7 @@ It feel reletively easy to get started as a contributor to this project since al
   - **Created:** ~2024
   - **License:** Apache-2.0 license
 
-- **[Zulip/Zulip-Terminal](https://github.com/freelawproject/recap-chrome)**
+- **[Zulip/Zulip-Terminal](https://github.com/zulip/zulip-terminal)**
   - **Purpose:** Official Zulip terminal client.
   - **Created:** ~2022
   - **License:** Apache-2.0 license
