@@ -39,6 +39,7 @@
 
 **Knowledge Gaps:**
 
+***Blessings***
 - **Kotlin:** I do not have prior experience writing Kotlin, which is the primary language used throughout the Scribe-Android codebase. Learning Kotlin's syntax, conventions, and Android-specific idioms will be an early priority.
 - **Jetpack Compose:** The project is actively migrating its UI from legacy Fragments and XML layouts to Jetpack Compose, Android's modern declarative UI framework. We will need to learn Compose's component model and state management to contribute to both new and migrated UI code.
 - **InputMethodService (IME):** Scribe-Android is fundamentally a custom keyboard app built on Android's InputMethodService API. Understanding how IMEs handle text input, key events, and interaction with other apps is essential and represents a significant learning curve for us.
@@ -46,6 +47,12 @@
 - **Figma:** Scribe's designs are maintained in a public Figma file, and design contributions are encouraged. We have very limited experience with Figma and will need to become comfortable navigating and potentially contributing to design files.
 - **Android Development (general):** I only have foundational knowledge of Android development, so ramping up on core concepts like Activities, Services, and the Android lifecycle will be necessary alongside the more specialized topics above.
 
+***Lance***
+- **Input Method Service (IME)**: Scribe uses this to handle text input and key events. I am not familiar with this, and will have to learn more about it.
+- **MockK**: Kotlin-native mocking library. I've used it a little bit, but not enough to feel confident saying there isn't some knowledge gap here.
+- **Android Instrumented Tests**: For testing some of the app's functionality. Similar to MockK, I've used this a bit but there is still a gap here.
+
+- **Figma**: I've heard of Figma, but never used it. This will be a gap I will have to learn.
 
 **Concerns:**
 
