@@ -38,7 +38,15 @@
 **Install Estimate:** 30 - 40 mins
 
 **Knowledge Gaps:**
-- <!-- Tool/language/framework that needs to be learned, and brief explanation -->
+
+- **Kotlin:** I do not have prior experience writing Kotlin, which is the primary language used throughout the Scribe-Android codebase. Learning Kotlin's syntax, conventions, and Android-specific idioms will be an early priority.
+- **Jetpack Compose:** The project is actively migrating its UI from legacy Fragments and XML layouts to Jetpack Compose, Android's modern declarative UI framework. We will need to learn Compose's component model and state management to contribute to both new and migrated UI code.
+- **InputMethodService (IME):** Scribe-Android is fundamentally a custom keyboard app built on Android's InputMethodService API. Understanding how IMEs handle text input, key events, and interaction with other apps is essential and represents a significant learning curve for us.
+- **Gradle:** While I have basic familiarity with Android Studio, I have limited hands-on experience configuring Gradle build files, managing dependencies, and working with build variants — the project uses two variants (keyboard and conjugate) that we'll need to understand.
+- **Figma:** Scribe's designs are maintained in a public Figma file, and design contributions are encouraged. We have very limited experience with Figma and will need to become comfortable navigating and potentially contributing to design files.
+- **Android Development (general):** I only have foundational knowledge of Android development, so ramping up on core concepts like Activities, Services, and the Android lifecycle will be necessary alongside the more specialized topics above.
+
 
 **Concerns:**
-- <!-- Any remaining concerns about working on the selected project, with brief explanation -->
+
+The primary concern is the steep initial learning curve of contributing to a custom keyboard application. Building an IME is a fairly niche area of Android development, and most beginner-friendly Android tutorials and resources do not cover InputMethodService in depth, which may make self-guided learning more challenging. Additionally, since the project is actively migrating from legacy Android Views to Jetpack Compose, the codebase is in a transitional state where both paradigms coexist — this could be confusing as newcomers trying to understand established patterns and conventions. We are also mindful that the project's language data pipeline depends on Wikidata and SPARQL queries managed through the separate Scribe-Data repository, meaning that debugging data-related issues may require us to work across multiple repos and tech stacks simultaneously. Finally, while the project is very welcoming to newcomers and labels issues with "good first issue," much of the open work tagged as high priority involves deeper architectural changes, so finding contributions that match our current skill level while still being meaningful may take some effort early on. That said, the active Matrix chat community and bi-weekly developer syncs should help us get oriented and unblocked when needed.
