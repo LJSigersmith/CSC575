@@ -6,8 +6,8 @@
 - Lance
 
 ## Meeting Times
-- TBD
-- TBD
+- Monday 11:00
+- Wednesday 11:00
 
 ## Project Documents
 - [PROJECT_SELECTION.md](ProjectSelections/PROJECT_SELECTION.md)
