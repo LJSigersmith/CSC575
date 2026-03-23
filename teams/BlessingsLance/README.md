@@ -2,8 +2,8 @@
 
 ## Team Members
 
-- Blessings
-- Lance
+- [Blessings](https://github.com/Mailos07)
+- [Lance](https://github.com/LJSigersmith)
 
 ## Meeting Times
 - Monday 11:00
