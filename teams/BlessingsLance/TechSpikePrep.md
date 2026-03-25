@@ -167,3 +167,11 @@ This is a collection of articles and guides hosted by Figma that covers foundati
 - **Blessings** — A simple screen built entirely in Jetpack Compose (e.g., a settings-style UI) demonstrating state management with `ViewModel` and `StateFlow`. *External to Scribe project. From learning resource.*
 
 - **Lance** — A MockK-based unit test suite for an existing Scribe-Android class (e.g., a `ViewModel` or utility function), following the patterns referenced in Issue #197. *Internal to Scribe project. Team-designed.*
+
+## Overview
+
+Follow tutorial: [Compose Tutorial](https://developer.android.com/codelabs/jetpack-compose-basics)
+
+Add InputMethodService: [Medium IME Tutorial](https://medium.com/@a2b.mobile.dev/ime-options-in-android-with-jetpack-compose-part-one-64dba6a7373f)
+
+Add in MockK/Instrumented testing suite
