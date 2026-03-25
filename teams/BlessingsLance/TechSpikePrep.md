@@ -110,6 +110,9 @@ W3Schools offers an excellent starting point for anyone new to Kotlin, breaking 
 > **Kotlin Official Documentation (kotlinlang.org)**
 The official Kotlin documentation is an essential resource for any developer working with the language. It offers comprehensive coverage of everything from basic syntax to advanced features like coroutines and multiplatform development. What makes it particularly useful is that it's maintained directly by JetBrains, the creators of Kotlin, so it's always up to date and authoritative. It also includes hands-on examples and a built-in playground for experimenting with code directly in the browser.
 
+> **Android Developers – Kotlin for Android (https://developer.android.com/kotlin)** 
+Android Developers is Google's official learning pathway tailored specifically to mobile development. This resource is particularly relevant for our work on Scribe, as it connects Kotlin fundamentals directly to Android app architecture, UI design, and best practices. It includes codelabs, sample projects, and integration guides that bridge the gap between learning Kotlin in isolation and applying it within a real Android codebase.
+
 ### InputMethodService (IME API)
 
 > TODO: Find 2–4 resources. We can start with the [Android IME developer guide](https://developer.android.com/develop/ui/views/touch-and-input/creating-input-method). Ask the Scribe Matrix community for any IME-specific resources they recommend.
