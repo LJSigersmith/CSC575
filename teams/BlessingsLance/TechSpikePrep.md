@@ -139,12 +139,25 @@ This is a GitHub repository maintained by Google containing a collection of real
 
 ### MockK / Android Testing
 
-> TODO: Find 2–4 resources. We can start with the [MockK docs](https://mockk.io/) and Android's testing guides. Check Issue #197 in Scribe-Android for context on expected test patterns.
+> **MockK Documentation (https://mockk.io/)**
+The official reference for MockK, a mocking library built specifically for Kotlin. It supports Kotlin-specific features like coroutines, extension function mocking, and object mocks MockK, making it far more natural to use in a Kotlin project than Java-based alternatives like Mockito. Scribe-Android already supports unit testing with JUnit and mocking with MockK GitHub, so understanding this library is essential for contributing test code to the project. The docs cover everything from basic stubbing and verification to advanced techniques like relaxed mocks and spy objects.
+
+> **Android Testing Fundamentals (https://developer.android.com/training/testing/fundamentals)** 
+This is Google's official guide to testing Android applications. It covers the core tenets of testing Android apps, distinguishing between local tests that run on a development machine and instrumented tests that run on a device Android Developers. The guide also walks through testable architecture patterns, including how to decouple code for easier testing — a concept directly relevant to Scribe, where contributors may need to refactor components to make them mockable.
+
+>**Android Local Unit Tests Guide (https://developer.android.com/training/testing/local-tests)**
+Android local unit testing guide dives deeper into writing unit tests that run on the host machine without an Android device. It covers how to replace dependencies using test doubles like fakes or mocks, and discusses considerations around the mockable Android library Android Developers. This resource is particularly relevant since Scribe-Android's testing needs center on local unit tests with MockK, and understanding how to handle Android framework dependencies in isolation is key to writing effective tests for the project.
 
 ### Figma (low priority)
 
-> TODO: Find a couple resources.
+> **Figma Design for Beginners (https://help.figma.com/hc/en-us/sections/30880632542743-Figma-Design-for-beginners)**
+Figma's own official beginner course, featuring expert-led video tutorials. The hands-on course walks through designing a portfolio website from scratch, covering the basics like shapes, text, and frames, and progressing into more advanced features like auto layout, components, and prototyping Figma Help Center. This is the most reliable starting point since it comes directly from Figma and stays in sync with the latest interface updates. It's especially useful for contributors who need to review or reference Scribe's public designs on Figma.
 
+> **Designlab – Figma 101 (https://designlab.com/figma-101-course/introduction-to-figma)**
+Designlab is a free seven-day email course that guides you through building your own app design and prototype in Figma. It introduces all of the key functions in Figma by having you build a set of app screens, then uses Figma's prototyping functionality to link them together Designlab. The structured daily format makes it easy to fit into a busy schedule, and the project-based approach means you walk away with a tangible portfolio piece rather than just theoretical knowledge.
+
+> **Figma Resource Library – Design Basics (https://www.figma.com/resource-library/design-basics/)**
+This is a collection of articles and guides hosted by Figma that covers foundational design principles including UI versus UX, typography, color theory, and prototyping. Rather than a single linear course, it serves as a reference library you can dip into based on what you need at any given moment. This is valuable for contributors who may be comfortable with the tool itself but want to strengthen their understanding of the design thinking behind Scribe's interface decisions.
 ---
 
 ## Planned Spike Artifacts
