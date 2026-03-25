@@ -107,7 +107,7 @@ Given the time available for the Tech Spike, we will focus on the highest-priori
 > **W3Schools (https://www.w3schools.com/kotlin/index.php)**
 W3Schools offers an excellent starting point for anyone new to Kotlin, breaking down the language's core concepts and code structure in a clear, beginner-friendly format. Its step-by-step approach makes it easy to build foundational knowledge without feeling overwhelmed, which is especially valuable for developers transitioning from other languages. As a free and widely trusted resource, it serves as a reliable first stop before diving into more advanced documentation or project-specific code.
 
-> **Kotlin Official Documentation (kotlinlang.org)**
+> **Kotlin Official Documentation (https://kotlinlang.org/)**
 The official Kotlin documentation is an essential resource for any developer working with the language. It offers comprehensive coverage of everything from basic syntax to advanced features like coroutines and multiplatform development. What makes it particularly useful is that it's maintained directly by JetBrains, the creators of Kotlin, so it's always up to date and authoritative. It also includes hands-on examples and a built-in playground for experimenting with code directly in the browser.
 
 > **Android Developers – Kotlin for Android (https://developer.android.com/kotlin)** 
