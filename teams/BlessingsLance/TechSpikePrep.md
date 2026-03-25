@@ -115,11 +115,27 @@ Android Developers is Google's official learning pathway tailored specifically t
 
 ### InputMethodService (IME API)
 
-> TODO: Find 2–4 resources. We can start with the [Android IME developer guide](https://developer.android.com/develop/ui/views/touch-and-input/creating-input-method). Ask the Scribe Matrix community for any IME-specific resources they recommend.
+> **Android Input Method Editor (IME) Developer Guide (https://developer.android.com/develop/ui/views/touch-and-input/creating-input-method)**
+IME Developer Guide is an essential starting point for understanding how custom keyboards are built on Android. It walks through the full lifecycle of an IME, covering how to declare the input method service, design the keyboard UI, handle text input and composing, and manage different input types. Since Scribe functions as a custom keyboard, understanding this guide is foundational to contributing meaningfully to the project.
+
+> **Android InputMethodService API Reference (https://developer.android.com/reference/android/inputmethodservice/InputMethodService)**
+This resource complements the IME guide by providing the detailed technical reference for the core class that powers any custom keyboard. It documents every method and callback available for managing input connections, handling key events, and controlling the candidate view. This is the resource to consult when working directly with Scribe's keyboard service code and needing to understand specific behaviors or override points.
+
+> **Scribe Community – Matrix Chat (https://matrix.to/#/#scribe_community:matrix.org)** 
+This is the project's primary communication channel where contributors and maintainers discuss development, answer questions, and share resources. Reaching out here for IME-specific resources, tips, or guidance from experienced contributors would be a valuable next step. The community has been noted for its accessibility and willingness to help newcomers get oriented.
+
 
 ### Jetpack Compose
 
-> TODO: Find 2–4 resources. We can start with official Jetpack Compose pathway on developer.android.com, "Compose Camp" codelabs.
+> **Jetpack Compose for Android (https://developer.android.com/develop/ui/compose)** 
+This is Google's official pathway for learning Compose, the declarative UI framework that is quickly becoming the standard for Android development. It covers core concepts like composable functions, state management, layouts, theming, and animation. Since Scribe's Android app relies on modern UI practices, understanding Compose is important for contributing to any front-facing components of the project.
+
+> **Compose Camp Codelabs (https://developer.android.com/courses/android-basics-compose/course)**
+Compose Camp Codelabs is a hands-on, self-paced learning series offered through Google's Android Basics with Compose course. It guides learners through building real Android apps using Compose from the ground up, with interactive codelabs that reinforce each concept through practice. This is particularly useful for developers who are new to declarative UI patterns and want a structured path rather than jumping straight into documentation.
+
+> **Jetpack Compose Samples (https://github.com/android/compose-samples)**
+This is a GitHub repository maintained by Google containing a collection of real-world sample apps built entirely with Compose. Exploring these projects offers practical insight into how Compose is used in production-style codebases, including navigation, state handling, and API integration. Studying these samples can help bridge the gap between tutorial exercises and contributing to a live project like Scribe.
+
 
 ### MockK / Android Testing
 
