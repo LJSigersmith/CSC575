@@ -14,6 +14,7 @@
 ### Selection & Planning
 - [Project Selection](ProjectSelections/PROJECT_SELECTION.md)
 - [Tech Spike Preparation](TechSpikePrep.md)
+- [Contributions](Contributions.md)
 
 ### Project Reviews
 - [Scribe](ProjectReviews/Scribe.md)
