@@ -14,18 +14,19 @@
 
 ## Active Contributions
 
-### [Contribution Title](link-to-issue-or-pr)
+### Title
 - **Type:** Bug Fix / Feature / Documentation / Translation / UI / Other
-- **Team Members:** Lance, Blessings
+- **Team Members:** Lance/Blessings
 - **Status:** Identified / In Progress / In Review / Merged / Abandoned
-- **Issue:** [#000](link-to-issue)
-- **PR:** [#000](link-to-pr) *(if applicable)*
-- **Description:** Brief description of what this contribution involves and why it was chosen.
+- **Issue:** ###
+- **PR:** *if applicable*
+- **Description:** Description
 
 #### Activity Log
 | Date | Who | Event |
 |---|---|---|
-| YYYY-MM-DD | Lance/Blessings | Example: Commented on issue, opened draft PR, received review feedback, etc. |
+| 2026-04-06 | Lance | Sent intro message to Matrix community: Hi everyone! I'm Lance, a grad student at Quinnipiac University. My teammate Blessings and I have been exploring the Scribe Android codebase over the last few weeks as part of an open source software course. We would like to contribute and are looking forward to learning from the community! |
+| 2026-04-06 | Lance | Commented on [Issue 590](https://github.com/scribe-org/Scribe-Android/issues/590): Hi! I'd love to work on this if it's still available. I've looked through the relevant code and can see that SuggestionHandler and KeyHandler already lay some groundwork. It looks like the main work is wiring up colon detection, suppressing normal autocomplete while in emoji mode, and handling the space key exit. Happy to get started if it can be assigned to me!
 
 ---
 
@@ -33,7 +34,7 @@
 
 | Title | Type | Issue | Assigned To | Notes |
 |---|---|---|---|---|
-| Example contribution | Bug Fix | [#000](link) | Lance | Short note on why this looks approachable |
+| Add colon (:) to emoji functionality to the Android keyboard app | Feature | [#590](https://github.com/scribe-org/Scribe-Android/issues/590) | Lance | Groundwork for Emoji detection mostly done, just need to add the feature and it seems straightforward enough |
 
 ---
 
