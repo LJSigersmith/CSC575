@@ -5,10 +5,10 @@
 
 ## Developer Install Demonstrations
 
-| Team Member | Status | Recording Link |
+| Team Member | Status | Link |
 |---|---|---|
-| Lance | TODO | — |
-| Blessings | TODO | — |
+| Lance | COMPLETE | [LanceDevInstall.pptx](LanceDevInstall.pptx) |
+| Blessings | TODO | [DevInstall.pptx](DevInstall.pptx) |
 
 ---
 
