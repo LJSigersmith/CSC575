@@ -27,9 +27,9 @@
 |---|---|---|
 | 2026-04-06 | Lance | Sent intro message to Matrix community: Hi everyone! I'm Lance, a grad student at Quinnipiac University. My teammate Blessings and I have been exploring the Scribe Android codebase over the last few weeks as part of an open source software course. We would like to contribute and are looking forward to learning from the community! |
 | 2026-04-06 | Lance | Commented on [Issue 590](https://github.com/scribe-org/Scribe-Android/issues/590): Hi! I'd love to work on this if it's still available. I've looked through the relevant code and can see that SuggestionHandler and KeyHandler already lay some groundwork. It looks like the main work is wiring up colon detection, suppressing normal autocomplete while in emoji mode, and handling the space key exit. Happy to get started if it can be assigned to me!
-| 2026-04-07 | Blessings | Sent intro message to Matrix community: Hey everyone! I'm Blessings, a grad student at Quinnipiac University. I'll be working with Lance on this open source software course. Really impressed by the project and excited to get involved with the community! |
+| 2026-04-07 | Blessings | Sent intro message to Matrix community (https://app.element.io/#/room/#ScribeAndroid:matrix.org): Hey everyone! I'm Blessings, a grad student at Quinnipiac University. I'll be working with Lance on this open source software course. Really impressed by the project and excited to get involved with the community! |
 | 2026-04-07 | Blessings | Commented on [Issue 562](https://github.com/scribe-org/Scribe-Android/issues/562): Hi! I'd love to work on this. I'll take a look at the Figma designs and the existing settings code to get started. Happy to pick this up if it can be assigned to me!
-
+| 2026-04-08 | andrewtavis | Replied on [Issue 562](https://github.com/scribe-org/Scribe-Android/issues/562): Hi @Mailos07 👋 We already have a PR open for this in #592. Thanks for your interest in the project. Please let us know if there's another issue that's of interest for you! We'll be unblocking more soon. I have to find another issue to work on.|
 ---
 
 ## Potential Contributions
