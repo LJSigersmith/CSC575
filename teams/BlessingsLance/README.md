@@ -1,5 +1,13 @@
 # Our Team
 
+## Selected Project
+
+**[Scribe-Android](https://github.com/scribe-org/Scribe-Android)** — an open source custom Android keyboard for language learners.
+
+See [Contributions.md](Contributions.md) for our active contributions, activity log, and project history.
+
+---
+
 ## Team Members
 
 - [Blessings](https://github.com/Mailos07)
