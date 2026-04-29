@@ -47,10 +47,20 @@
 ### Onboarding Tutorial
 - **Type:** Feature
 - **Team Member:** Blessings
-- **Status:** In Progress
-- **Issue:** N/A (based on Figma designs shared by maintainer)
-- **PR:** N/A
+- **Status:** In Review
+- **Issue:** Add in-app guided tutorial for new users #602 (based on Figma designs shared by maintainer)
+- **PR:** https://github.com/scribe-org/Scribe-Android/pull/605 
 - **Description:** Implements a guided onboarding tutorial accessible from the About tab. Five screens: Tutorial Home plus four interactive chapters (Noun Annotation, Word Translation, Verb Conjugation, Noun Plurals). Each chapter validates user keyboard input in real time with green/red feedback. Built in Kotlin with Jetpack Compose. Core files: TutorialHomeScreen.kt, TutorialStepScreen.kt, TutorialNavigator.kt, WrongKeyboardScreen.kt. Integrated into existing AboutScreen.kt.
+
+---
+
+### Onboarding Tutorial
+- **Type:** Feature
+- **Team Member:** Blessings
+- **Status:** Done
+- **Issue:** Migration to Scribe-i18n to support multiple languages
+- **PR:** no PR, done locally on machine 
+- **Description:** Tutorial text was previously hardcoded in English. As a follow-up enhancement, all UI strings were extracted into a `TutorialStrings` data class with full translations for all 8 Scribe languages (English, German, French, Italian, Portuguese, Russian, Spanish, Swedish). An in-app language picker on the home screen lets users switch the tutorial language live without changing their device locale, while example words (Vater, Mutter, etc.) remain untranslated as they are the lesson targets.
 
 ---
 
@@ -74,6 +84,8 @@
 | 2026-04-20 | Lance | Sent message to Scribe-Android Matrix community: "Hey everyone! I've opened a PR implementing emoji colon mode for Scribe-Android (#590). Typing : triggers a dedicated emoji search row in the suggestion bar — 6 slots on phone, 9 on tablet — with prefix matching against the emoji_keywords table and a set of common emojis shown on the bare :. Getting this working end-to-end also surfaced issues in two other repos: Scribe-Data — PR #684 fixes a column overflow bug in data_to_sqlite.py that was preventing emoji_keywords from being written to SQLite. Scribe-Server — emoji_keywords needs to be added to the data pipeline and an underscore-stripping issue in generateMariaTableName needs a fix. Would love any feedback!" |
 | 2026-04-21 | DeleMike | Reviewed [PR #601](https://github.com/scribe-org/Scribe-Android/pull/601): (1) emoji bar shows empty on their device — likely missing emoji_keywords table in language pack; (2) colon alone (without space) triggered emoji bar — may not be an issue; (3) asked for explanation of EmojiUtils.kt changes; (4) suggested showing default emojis instead of empty slots on no match; (5) flagged PR as partially blocked pending Scribe-Server data. |
 | 2026-04-22 | Lance | Replied to PR #601 review: (1) confirmed empty bar is caused by missing emoji_keywords in language packs, attached ENLanguageData.sqlite from emulator as evidence; (2) clarified space + colon is intentional to avoid mid-word triggers; (3) explained EmojiUtils.kt adds COMMON_EMOJIS list and ensures colon + typed text is deleted on emoji selection; (4) agreed to show common emojis on no match instead of empty slots; (5) offered to detail the Scribe-Data and Scribe-Server patches needed to produce emoji_keywords in language packs. |
+| 2026-04-28 | Blessings | Opened [scribe-org/Scribe-Android#605](https://github.com/scribe-org/Scribe-Android/pull/605): "feat: add interactive tutorial onboarding flow" — Adds an interactive tutorial onboarding flow accessible from the About tab, based on the Figma designs for the tutorial screens. The tutorial guides new users through Scribe's core features with hands-on practice rather than passive video.|
+
 
 ---
 
@@ -81,12 +93,13 @@
 | Title | Type | Issue | Assigned To | Notes |
 |---|---|---|---|---|
 | Add emoji_keywords to Scribe-Server language pack pipeline | Bug Fix / Feature | [scribe-org/Scribe-Server#43](https://github.com/scribe-org/Scribe-Server/issues/43) | Lance | Awaiting community feedback on approach — add PyICU dependencies to update_data.sh and include emoji_keywords as a data type. Would unblock the Emoji Autocomplete Feature. |
+| Tutorial text is currently hardcoded in English. | Feature | NO Issue as yet| Blessing | Awaiting PR Review | |
 ---
 
 ## Completed Contributions
 
 | Title | Type | PR | Merged By | Date |
-|---|---|---|---|---|
+| feat: add interactive tutorial onboarding flow #605| Feature| [scribe-org/Scribe-Android#605](https://github.com/scribe-org/Scribe-Android/pull/605) | Blessings | 4/28/2026|
 | — | — | — | — | — |
 
 ---
@@ -94,4 +107,4 @@
 ## Abandoned Contributions
 
 | Title | Reason | Date Abandoned |
-|---|---|---|
+| Text to Speach Enhancement| Out of Scope for community |4/08/2026|
