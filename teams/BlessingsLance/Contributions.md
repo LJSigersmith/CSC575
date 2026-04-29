@@ -99,12 +99,14 @@
 ## Completed Contributions
 
 | Title | Type | PR | Merged By | Date |
-| feat: add interactive tutorial onboarding flow #605| Feature| [scribe-org/Scribe-Android#605](https://github.com/scribe-org/Scribe-Android/pull/605) | Blessings | 4/28/2026|
-| — | — | — | — | — |
+|---|---|---|---|---|
+| feat: add interactive tutorial onboarding flow #605| Feature| [scribe-org/Scribe-Android#605](https://github.com/scribe-org/Scribe-Android/pull/605) | Blessings | 4/28/2026 |
+
 
 ---
 
 ## Abandoned Contributions
 
 | Title | Reason | Date Abandoned |
-| Text to Speach Enhancement| Out of Scope for community |4/08/2026|
+|---|---|---|
+| Text to Speach Enhancement| Out of Scope for community |4/08/2026 |
